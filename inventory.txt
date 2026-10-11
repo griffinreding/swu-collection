@@ -1,0 +1,1405 @@
+# count,name,subtitle,set,number,variant,rarity,is_foil,price_each,price_total
+1,Grim Valor,,JTL,571,Standard Foil,Uncommon,True,$0.11,$0.11
+1,Grim Valor,,JTL,335,Hyperspace,Uncommon,False,$0.21,$0.21
+2,Repair,,SOR,74,Standard,Common,False,$0.05,$0.10
+2,Repair,,SOR,339,Hyperspace,Common,False,$0.14,$0.28
+1,Astromech Pilot,,JTL,555,Standard Foil,Uncommon,True,$0.11,$0.11
+2,Academy Graduate,,JTL,556,Standard Foil,Common,True,$0.15,$0.30
+1,Academy Graduate,,JTL,58,Standard,Common,False,$0.12,$0.12
+1,Echo Base Engineer,,JTL,44,Standard,Common,False,$0.07,$0.07
+2,Echo Base Engineer,,JTL,306,Hyperspace,Common,False,$0.14,$0.28
+2,Desperate Commando,,JTL,794,Hyperspace Foil,Common,True,$0.32,$0.64
+1,Desperate Commando,,JTL,60,Standard,Common,False,$0.08,$0.08
+3,Theed Security,,SEC,95,Standard,Common,False,$0.09,$0.27
+1,Theed Security,,SEC,851,Hyperspace Foil,Common,True,$0.29,$0.29
+1,Hera Syndulla,We've Lost Enough,JTL,543,Standard Foil,Uncommon,True,$0.22,$0.22
+2,Silver Angel,Trace's Hope,JTL,324,Hyperspace,Uncommon,False,$0.25,$0.50
+2,Covering the Wing,,JTL,338,Hyperspace,Common,False,$0.26,$0.52
+2,Paige Tico,Dropping the Hammer,JTL,308,Hyperspace,Uncommon,False,$0.29,$0.58
+1,"You're All Clear, Kid",,JTL,317,Hyperspace,Uncommon,False,$0.23,$0.23
+1,Director Krennic,The Work Has Stalled,HMW,571,Hyperspace Foil,Special,True,$0.79,$0.79
+1,Battle Droid Legion,,TWIOP,20,Weekly Play Foil,Rare,True,$0.52,$0.52
+1,Onyx Squadron Brute,,JTL,33,Standard,Common,False,$0.19,$0.19
+2,Outer Rim Outlaws,,JTL,563,Standard Foil,Common,True,$0.19,$0.38
+1,I'll Cover For You,,IBH,5,Standard,Special,False,$0.11,$0.11
+2,Omicron Strike Craft,,JTL,64,Standard,Common,False,$0.07,$0.14
+1,Omicron Strike Craft,,JTL,562,Standard Foil,Common,True,$0.07,$0.07
+1,Tam Ryvora,Searching For Purpose,JTL,533,Standard Foil,Rare,True,$0.22,$0.22
+2,Landing Shuttle,,JTL,63,Standard,Common,False,$0.08,$0.16
+1,Landing Shuttle,,JTL,325,Hyperspace,Common,False,$0.23,$0.23
+2,Interceptor Ace,,JTL,532,Standard Foil,Common,True,$0.13,$0.26
+1,Interceptor Ace,,JTL,296,Hyperspace,Common,False,$0.18,$0.18
+1,Admiral Yularen,Fleet Coordinator,JTL,309,Hyperspace,Rare,False,$0.63,$0.63
+1,L3-37,Get Out Of My Seat,JTL,49,Standard,Rare,False,$0.25,$0.25
+2,Power from Pain,,JTL,42,Standard,Uncommon,False,$0.09,$0.18
+2,Trace Martez,Trusting Sister,JTL,328,Hyperspace,Uncommon,False,$0.23,$0.46
+3,Direct Hit,,JTL,78,Standard,Common,False,$0.11,$0.33
+2,Iden Versio,Adapt or Die,JTL,36,Standard,Rare,False,$0.57,$1.14
+1,Cloaked StarViper,,JTL,67,Standard,Common,False,$0.07,$0.07
+4,Consortium StarViper,,SOR,376,Hyperspace,Common,False,$0.22,$0.88
+1,Perimeter AT-RT,,JTL,68,Standard,Common,False,$0.08,$0.08
+1,Perimeter AT-RT,,JTL,566,Standard Foil,Common,True,$0.30,$0.30
+1,Out the Airlock,,JTL,341,Hyperspace,Common,False,$0.25,$0.25
+2,Out the Airlock,,JTL,813,Hyperspace Foil,Common,True,$0.31,$0.62
+4,Munificent Frigate,,JTL,69,Standard,Common,False,$0.07,$0.28
+1,U-Wing Lander,,JTL,568,Standard Foil,Uncommon,True,$0.07,$0.07
+1,Banshee,Crippling Command,JTL,299,Hyperspace,Uncommon,False,$0.24,$0.24
+1,Banshee,Crippling Command,JTL,37,Standard,Uncommon,False,$0.12,$0.12
+2,D'Qar Cargo Frigate,,JTL,52,Standard,Common,False,$0.04,$0.08
+1,D'Qar Cargo Frigate,,JTL,314,Hyperspace,Common,False,$0.10,$0.10
+1,D'Qar Cargo Frigate,,JTL,786,Hyperspace Foil,Common,True,$0.28,$0.28
+1,Gold Leader,Fastest Ship in the Fleet,JTL,552,Standard Foil,Uncommon,True,$0.11,$0.11
+1,CR90 Relief Runner,,JTL,569,Standard Foil,Common,True,$0.16,$0.16
+2,CR90 Relief Runner,,JTL,71,Standard,Common,False,$0.09,$0.18
+1,Chimaera,Reinforcing the Center,JTL,39,Standard,Uncommon,False,$0.23,$0.23
+1,Theed Security,,SEC,359,Hyperspace,Common,False,$0.17,$0.17
+1,Wing Guard Security Team,,JTL,72,Standard,Uncommon,False,$0.06,$0.06
+1,Fleet Interdictor,,JTL,40,Standard,Common,False,$0.08,$0.08
+1,Fleet Interdictor,,JTL,774,Hyperspace Foil,Common,True,$0.60,$0.60
+1,Fleet Interdictor,,JTL,538,Standard Foil,Common,True,$0.17,$0.17
+1,Annihilator,Tagge's Flagship,JTL,539,Standard Foil,Legendary,True,$1.63,$1.63
+3,Corporate Light Cruiser,,JTL,723,Standard Foil,Common,True,$0.14,$0.42
+1,Corporate Light Cruiser,,JTL,225,Standard,Common,False,$0.12,$0.12
+1,Invincible,Naval Adversary,JTL,191,Standard,Legendary,False,$0.29,$0.29
+2,Techno Union Transport,,JTL,688,Standard Foil,Common,True,$0.06,$0.12
+1,Techno Union Transport,,JTL,190,Standard,Common,False,$0.06,$0.06
+2,The Mandalorian,Weathered Pilot,JTL,472,Hyperspace,Uncommon,False,$1.02,$2.04
+1,Black Squadron Scout Wing,,JTL,936,Hyperspace Foil,Common,True,$0.36,$0.36
+1,Black Squadron Scout Wing,,JTL,464,Hyperspace,Common,False,$0.24,$0.24
+1,Commandeer,,JTL,235,Standard,Rare,False,$0.69,$0.69
+2,Kimogila Heavy Fighter,,JTL,222,Standard,Common,False,$0.10,$0.20
+1,Bossk,Hunt By Instinct,JTL,187,Standard,Special,False,$0.38,$0.38
+1,DDC Defender,,ASH,712,Hyperspace Foil,Uncommon,True,$0.51,$0.51
+1,Ahsoka Tano,Chasing Whispers,JTL,935,Hyperspace Foil,Rare,True,$5.70,$5.70
+1,Ahsoka Tano,Chasing Whispers,JTL,463,Hyperspace,Rare,False,$3.63,$3.63
+1,Razor Crest,Ride For Hire,JTL,485,Hyperspace,Uncommon,False,$0.32,$0.32
+3,Shadowed Hover Tank,,JTL,722,Standard Foil,Common,True,$0.13,$0.39
+2,Blade Squadron B-Wing,,JTL,461,Hyperspace,Common,False,$0.13,$0.26
+1,Blade Squadron B-Wing,,JTL,199,Standard,Common,False,$0.07,$0.07
+1,Contracted Hunter,,JTL,216,Standard,Uncommon,False,$0.14,$0.14
+1,Sweep the Area,,JTL,495,Hyperspace,Uncommon,False,$0.21,$0.21
+1,Cat and Mouse,,JTL,693,Standard Foil,Rare,True,$0.25,$0.25
+1,BoShek,Charismatic Smuggler,JTL,713,Standard Foil,Uncommon,True,$0.17,$0.17
+1,BoShek,Charismatic Smuggler,JTL,215,Standard,Uncommon,False,$0.10,$0.10
+2,Contracted Jumpmaster,,JTL,184,Standard,Common,False,$0.10,$0.20
+1,Rafa Martez,Shrewd Sister,JTL,953,Hyperspace Foil,Uncommon,True,$0.38,$0.38
+1,Rafa Martez,Shrewd Sister,JTL,219,Standard,Uncommon,False,$0.09,$0.09
+2,Death Space Skirmisher,,JTL,479,Hyperspace,Common,False,$0.34,$0.68
+1,It's a Trap,,JTL,471,Hyperspace,Rare,False,$0.49,$0.49
+1,It's a Trap,,JTL,209,Standard,Rare,False,$0.15,$0.15
+6,Torpedo Barrage,,JTL,732,Standard Foil,Common,True,$0.12,$0.72
+1,Torpedo Barrage,,JTL,234,Standard,Common,False,$0.11,$0.11
+1,Mist Hunter,The Findsman's Pursuit,JTL,186,Standard,Uncommon,False,$0.14,$0.14
+4,Skyway Cloud Car,,JTL,718,Standard Foil,Common,True,$0.12,$0.48
+1,Skyway Cloud Car,,JTL,954,Hyperspace Foil,Common,True,$0.27,$0.27
+1,Guerilla Soldier,,JTL,716,Standard Foil,Common,True,$0.13,$0.13
+1,Guerilla Soldier,,JTL,218,Standard,Common,False,$0.12,$0.12
+1,Guerilla Soldier,,JTL,480,Hyperspace,Common,False,$0.38,$0.38
+1,Anakin Skywalker,I'll Try Spinning,JTL,197,Standard,Uncommon,False,$0.13,$0.13
+1,Fireball,An Explosion With Wings,JTL,198,Standard,Uncommon,False,$0.17,$0.17
+1,In Debt to Crimson Dawn,,JTL,690,Standard Foil,Uncommon,True,$0.17,$0.17
+1,Superheavy Ion Cannon,,JTL,227,Standard,Rare,False,$0.34,$0.34
+1,Superheavy Ion Cannon,,JTL,725,Standard Foil,Rare,True,$0.36,$0.36
+1,Zygerrian Starhopper,,JTL,681,Standard Foil,Common,True,$0.21,$0.21
+1,Zygerrian Starhopper,,JTL,183,Standard,Common,False,$0.10,$0.10
+3,Heartless Tactics,,JTL,456,Hyperspace,Uncommon,False,$0.24,$0.72
+3,Heartless Tactics,,JTL,194,Standard,Uncommon,False,$0.08,$0.24
+5,X-34 Landspeeder,,JTL,712,Standard Foil,Common,True,$0.15,$0.75
+3,X-34 Landspeeder,,JTL,214,Standard,Common,False,$0.08,$0.24
+1,I Have You Now,,JTL,691,Standard Foil,Uncommon,True,$0.17,$0.17
+1,I Have You Now,,JTL,455,Hyperspace,Uncommon,False,$0.24,$0.24
+3,Punch It,,JTL,231,Standard,Common,False,$0.08,$0.24
+2,Republic Y-Wing,,JTL,212,Standard,Common,False,$0.14,$0.28
+2,Electromagnetic Pulse,,JTL,492,Hyperspace,Common,False,$0.21,$0.42
+2,Electromagnetic Pulse,,JTL,230,Standard,Common,False,$0.08,$0.16
+2,Diversion,,JTL,727,Standard Foil,Common,True,$0.10,$0.20
+1,Diversion,,JTL,491,Hyperspace,Common,False,$0.14,$0.14
+2,Independent Smuggler,,JTL,709,Standard Foil,Common,True,$0.17,$0.34
+1,Independent Smuggler,,JTL,211,Standard,Common,False,$0.10,$0.10
+1,Fly Casual,,JTL,206,Standard,Uncommon,False,$0.08,$0.08
+1,Fly Casual,,JTL,468,Hyperspace,Uncommon,False,$0.22,$0.22
+1,Barrel Roll,,JTL,726,Standard Foil,Common,True,$0.12,$0.12
+2,Barrel Roll,,JTL,490,Hyperspace,Common,False,$0.13,$0.26
+3,Dagger Squadron Pilot,,JTL,196,Standard,Common,False,$0.06,$0.18
+3,Commence Patrol,,JTL,467,Hyperspace,Uncommon,False,$0.29,$0.87
+2,Relentless Firespray,,JTL,157,Standard,Rare,False,$0.25,$0.50
+3,Rebellious Hammerhead,,JTL,153,Standard,Common,False,$0.10,$0.30
+1,Profundity,We Fight!,JTL,154,Standard,Legendary,False,$0.39,$0.39
+3,Insurgent Saboteurs,,JTL,168,Standard,Common,False,$0.09,$0.27
+1,Insurgent Saboteurs,,JTL,666,Standard Foil,Common,True,$0.13,$0.13
+1,War Juggernaut,,JTL,170,Standard,Uncommon,False,$0.18,$0.18
+3,War Juggernaut,,JTL,668,Standard Foil,Uncommon,True,$0.21,$0.63
+1,Tactical Heavy Bomber,,JTL,152,Standard,Rare,False,$0.45,$0.45
+3,Occupier Siege Tank,,SOR,165,Standard,Common,False,$0.04,$0.12
+2,Cham Syndulla,Rallying Ryloth,JTL,164,Standard,Uncommon,False,$0.19,$0.38
+1,Decimator of Dissidents,,JTL,138,Standard,Uncommon,False,$0.12,$0.12
+3,AT-DP Occupier,,JTL,163,Standard,Common,False,$0.10,$0.30
+4,Hunting Aggressor,,JTL,165,Standard,Uncommon,False,$0.11,$0.44
+1,Dengar,Crude and Slovenly,JTL,139,Standard,Uncommon,False,$0.11,$0.11
+3,Dengar,Crude and Slovenly,JTL,637,Standard Foil,Uncommon,True,$0.22,$0.66
+3,Orbiting K-Wing,,JTL,166,Standard,Common,False,$0.09,$0.27
+2,Biggs Darklighter,They'll Never Stop Us,JTL,150,Standard,Uncommon,False,$0.16,$0.32
+2,Biggs Darklighter,They'll Never Stop Us,JTL,648,Standard Foil,Uncommon,True,$0.21,$0.42
+2,Koiogran Turn,,JTL,179,Standard,Common,False,$0.10,$0.20
+3,Droid Missile Platform,,JTL,162,Standard,Common,False,$0.19,$0.57
+2,Piercing Shot,,JTL,180,Standard,Common,False,$0.10,$0.20
+1,Piercing Shot,,JTL,678,Standard Foil,Common,True,$0.12,$0.12
+2,Vonreg's TIE Interceptor,Ace of the First Order,JTL,137,Standard,Uncommon,False,$0.17,$0.34
+2,Face Off,,JTL,178,Standard,Uncommon,False,$0.07,$0.14
+5,Prototype TIE Advanced,,JTL,136,Standard,Common,False,$0.09,$0.45
+1,Prototype TIE Advanced,,JTL,634,Standard Foil,Common,True,$0.19,$0.19
+1,Captain Tarkin,Full Forward Assault,JTL,161,Standard,Uncommon,False,$0.18,$0.18
+1,Captain Tarkin,Full Forward Assault,JTL,659,Standard Foil,Uncommon,True,$0.14,$0.14
+2,Red Squadron Y-Wing,,JTL,149,Standard,Common,False,$0.15,$0.30
+1,Red Squadron Y-Wing,,JTL,647,Standard Foil,Common,True,$0.18,$0.18
+1,Red Squadron Y-Wing,,JTL,411,Hyperspace,Common,False,$0.36,$0.36
+1,Stay on Target,,JTL,177,Standard,Uncommon,False,$0.20,$0.20
+2,Frisk,Vanguard Loudmouth,JTL,148,Standard,Uncommon,False,$0.11,$0.22
+2,Supporting Eta-2,,JTL,160,Standard,Common,False,$0.14,$0.28
+1,Supporting Eta-2,,JTL,422,Hyperspace,Common,False,$0.19,$0.19
+3,Special Forces TIE Fighter,,JTL,135,Standard,Common,False,$0.11,$0.33
+2,Twin Laser Turret,,JTL,172,Standard,Common,False,$0.10,$0.20
+2,Shoot Down,,JTL,176,Standard,Common,False,$0.12,$0.24
+1,Shoot Down,,JTL,674,Standard Foil,Common,True,$0.21,$0.21
+2,General Hux,"No Terms, No Surrender",JTL,134,Standard,Uncommon,False,$0.17,$0.34
+1,General Hux,"No Terms, No Surrender",JTL,632,Standard Foil,Uncommon,True,$0.15,$0.15
+1,General Hux,"No Terms, No Surrender",JTL,396,Hyperspace,Uncommon,False,$0.16,$0.16
+4,Determined Recruit,,JTL,159,Standard,Common,False,$0.07,$0.28
+3,Fight Fire With Fire,,JTL,173,Standard,Common,False,$0.06,$0.18
+1,Fight Fire With Fire,,JTL,435,Hyperspace,Common,False,$0.13,$0.13
+1,BB-8,Happy Beeps,JTL,145,Standard,Uncommon,False,$0.18,$0.18
+2,Targeting Computer,,JTL,171,Standard,Rare,False,$0.32,$0.64
+3,Massassi Tactical Officer,,JTL,146,Standard,Common,False,$0.06,$0.18
+3,Crackshot V-Wing,,JTL,158,Standard,Common,False,$0.10,$0.30
+1,Hotshot Maneuver,,JTL,672,Standard Foil,Rare,True,$0.55,$0.55
+4,First Order Stormtrooper,,JTL,132,Standard,Common,False,$0.13,$0.52
+2,Executor,Might of the Empire,JTL,90,Standard,Legendary,False,$0.66,$1.32
+3,Resupply Carrier,,JTL,119,Standard,Common,False,$0.15,$0.45
+2,MC30 Assault Frigate,,JTL,118,Standard,Common,False,$0.08,$0.16
+1,MC30 Assault Frigate,,JTL,616,Standard Foil,Common,True,$0.11,$0.11
+1,Chewbacca,Faithful First Mate,JTL,601,Standard Foil,Special,True,$0.53,$0.53
+2,Dornean Gunship,,JTL,116,Standard,Uncommon,False,$0.15,$0.30
+1,Timely Reinforcements,,JTL,130,Standard,Uncommon,False,$0.13,$0.13
+1,Captain Phasma,On My Command,JTL,88,Standard,Uncommon,False,$0.11,$0.11
+1,Captain Phasma,Chrome Dome,JTL,10,Standard,Rare,False,$0.12,$0.12
+2,TIE Ambush Squadron,,JTL,87,Standard,Common,False,$0.11,$0.22
+2,Red Leader,Form Up,JTL,101,Standard,Uncommon,False,$0.12,$0.24
+1,Resistance Blue Squadron,,JTL,102,Standard,Common,False,$0.11,$0.11
+3,Adept ARC-170,,JTL,114,Standard,Common,False,$0.09,$0.27
+1,Adept ARC-170,,JTL,612,Standard Foil,Common,True,$0.10,$0.10
+3,Focus Fire,,JTL,129,Standard,Common,False,$0.13,$0.39
+1,Focus Fire,,JTL,627,Standard Foil,Common,True,$0.13,$0.13
+1,Poe Dameron,One Hell of a Pilot,JTL,100,Standard,Uncommon,False,$0.25,$0.25
+3,Homestead Militia,,SOR,113,Standard,Common,False,$0.03,$0.09
+1,Wingman Victor Three,Backstabber,JTL,86,Standard,Uncommon,False,$0.23,$0.23
+1,Blue Leader,Scarif Air Support,JTL,96,Standard,Uncommon,False,$1.15,$1.15
+3,Veteran Fleet Officer,,JTL,99,Standard,Common,False,$0.07,$0.21
+3,Eager Escort Fighter,,JTL,112,Standard,Common,False,$0.17,$0.51
+1,Eager Escort Fighter,,JTL,374,Hyperspace,Common,False,$0.47,$0.47
+2,Leia Organa,"Pilots, To Your Stations",JTL,97,Standard,Uncommon,False,$0.22,$0.44
+1,Seasoned Fleet Admiral,,JTL,111,Standard,Rare,False,$0.34,$0.34
+1,Eject,,JTL,126,Standard,Rare,False,$0.26,$0.26
+1,Eject,,JTL,388,Hyperspace,Rare,False,$0.69,$0.69
+2,Jarek Yeager,Coordinating With The Resistance,JTL,109,Standard,Uncommon,False,$0.10,$0.20
+2,Air Superiority,,JTL,125,Standard,Common,False,$0.16,$0.32
+3,Scouting Headhunter,,JTL,110,Standard,Common,False,$0.10,$0.30
+3,Clone Pilot,,JTL,108,Standard,Common,False,$0.10,$0.30
+3,Prepare for Takeoff,,SOR,125,Standard,Uncommon,False,$0.15,$0.45
+3,Kijimi Patrollers,,JTL,82,Standard,Common,False,$0.15,$0.45
+1,Kijimi Patrollers,,JTL,580,Standard Foil,Common,True,$0.21,$0.21
+1,Wingman Victor Two,Mauler Mithel,JTL,84,Standard,Uncommon,False,$0.25,$0.25
+1,Pantoran Starship Thief,,JTL,83,Standard,Rare,False,$0.23,$0.23
+4,All Wings Report In,,JTL,122,Standard,Common,False,$0.08,$0.32
+1,All Wings Report In,,JTL,384,Hyperspace,Common,False,$0.18,$0.18
+1,Dogfight,,JTL,123,Standard,Uncommon,False,$0.16,$0.16
+1,Apology Accepted,,JTL,91,Standard,Uncommon,False,$0.13,$0.13
+3,Bunker Defender,,JTL,107,Standard,Common,False,$0.09,$0.27
+1,Nien Nunb,Loyal Co-Pilot,JTL,93,Standard,Rare,False,$0.24,$0.24
+3,Tandem Assault,,JTL,124,Standard,Common,False,$0.09,$0.27
+2,Dorsal Turret,,JTL,120,Standard,Common,False,$0.10,$0.20
+3,First Order TIE Fighter,,JTL,81,Standard,Common,False,$0.18,$0.54
+1,First Order TIE Fighter,,JTL,815,Hyperspace Foil,Common,True,$0.71,$0.71
+2,Salvage,,JTL,121,Standard,Uncommon,False,$0.17,$0.34
+1,Salvage,,JTL,619,Standard Foil,Uncommon,True,$0.22,$0.22
+1,Tantive IV,Fleeing the Empire,JTL,252,Standard,Uncommon,False,$0.13,$0.13
+4,Jedi Light Cruiser,,JTL,251,Standard,Common,False,$0.08,$0.32
+1,Jedi Light Cruiser,,JTL,985,Hyperspace Foil,Common,True,$0.29,$0.29
+2,Dedicated Wingmen,,JTL,254,Standard,Common,False,$0.08,$0.16
+3,Dilapidated Ski Speeder,,JTL,248,Standard,Common,False,$0.08,$0.24
+3,Coordinated Front,,JTL,253,Standard,Common,False,$0.04,$0.12
+2,Resistance X-Wing,,JTL,247,Standard,Common,False,$0.09,$0.18
+1,Resistance X-Wing,,JTL,509,Hyperspace,Common,False,$0.23,$0.23
+4,Hopeful Volunteer,,JTL,246,Standard,Common,False,$0.05,$0.20
+1,Hopeful Volunteer,,JTL,980,Hyperspace Foil,Common,True,$0.20,$0.20
+2,R2-D2,Artooooooooo!,JTL,245,Standard,Uncommon,False,$0.22,$0.44
+3,Quasar TIE Carrier,,JTL,243,Standard,Common,False,$0.09,$0.27
+1,Quasar TIE Carrier,,JTL,741,Standard Foil,Common,True,$0.15,$0.15
+1,Fett's Firespray,Feared Silhouette,JTL,738,Standard Foil,Special,True,$0.33,$0.33
+2,Rogue-class Starfighter,,JTL,241,Standard,Common,False,$0.07,$0.14
+1,Shuttle ST-149,Under Krennic's Authority,JTL,242,Standard,Uncommon,False,$0.39,$0.39
+2,Sith Trooper,,JTL,238,Standard,Common,False,$0.10,$0.20
+1,Sith Trooper,,JTL,736,Standard Foil,Common,True,$0.12,$0.12
+5,TIE Dagger Vanguard,,JTL,239,Standard,Common,False,$0.15,$0.75
+3,TIE Dagger Vanguard,,JTL,737,Standard Foil,Common,True,$0.22,$0.66
+2,Special Forces TIE Fighter,,JTL,397,Hyperspace,Common,False,$0.29,$0.58
+4,TIE Bomber,,JTL,237,Standard,Common,False,$0.11,$0.44
+3,TIE Bomber,,JTL,735,Standard Foil,Common,True,$0.18,$0.54
+2,There Is No Escape,,JTL,244,Standard,Rare,False,$0.22,$0.44
+2,Indoctrinated Conscript,,JTL,236,Standard,Common,False,$0.06,$0.12
+1,Corellian Freighter,,SOR,250,Standard,Common,False,$0.05,$0.05
+1,Corellian Freighter,,JTL,258,Standard,Common,False,$0.08,$0.08
+1,Corellian Freighter,,JTL,756,Standard Foil,Common,True,$0.06,$0.06
+2,Retrofitted Airspeeder,,JTL,259,Standard,Uncommon,False,$0.08,$0.16
+2,Flanking Fang Fighter,,JTL,257,Standard,Common,False,$0.09,$0.18
+3,Evasive Maneuver,,JTL,262,Standard,Common,False,$0.06,$0.18
+7,Swarming Vulture Droid,,JTL,256,Standard,Common,False,$0.35,$2.45
+1,Swarming Vulture Droid,,JTL,518,Hyperspace,Common,False,$0.28,$0.28
+3,Sullustan Spacer,,JTL,255,Standard,Common,False,$0.05,$0.15
+1,Sullustan Spacer,,JTL,517,Hyperspace,Common,False,$0.13,$0.13
+3,Attack Run,,JTL,261,Standard,Common,False,$0.10,$0.30
+4,Mos Eisley Modifier,,ASH,74,Standard,Uncommon,False,$0.13,$0.52
+2,Duchess's Protector,,ASH,560,Hyperspace Foil,Common,True,$0.18,$0.36
+7,Duchess's Protector,,ASH,58,Standard,Common,False,$0.10,$0.70
+1,Duchess's Protector,,ASH,322,Hyperspace,Common,False,$0.10,$0.10
+6,Cybernetic Enhancements,,ASH,87,Standard,Common,False,$0.11,$0.66
+3,Cybernetic Enhancements,,ASH,589,Hyperspace Foil,Common,True,$0.12,$0.36
+3,The Conflict Within,,ASH,88,Standard,Uncommon,False,$0.28,$0.84
+1,The Conflict Within,,ASH,590,Hyperspace Foil,Uncommon,True,$0.34,$0.34
+5,Buy Time,,ASH,91,Standard,Common,False,$0.10,$0.50
+3,Remnant Official,,ASH,76,Standard,Common,False,$0.09,$0.27
+1,Remnant Official,,ASH,340,Hyperspace,Common,False,$0.14,$0.14
+1,Remnant Official,,ASH,578,Hyperspace Foil,Common,True,$0.11,$0.11
+3,Doctor Pershing,Dedicated to Research,ASH,72,Standard,Uncommon,False,$0.17,$0.51
+1,Doctor Pershing,Dedicated to Research,ASH,336,Hyperspace,Uncommon,False,$0.40,$0.40
+4,Palace Chef Droid,,ASH,73,Standard,Common,False,$0.09,$0.36
+1,Blade of Talzin,A Gift of Shadows,ASH,557,Hyperspace Foil,Rare,True,$0.57,$0.57
+1,Blade of Talzin,A Gift of Shadows,ASH,793,Standard Prestige,Rare,False,$1.14,$1.14
+4,Huyang,Your Aptitude Falls Short,ASH,56,Standard,Uncommon,False,$0.20,$0.80
+7,Perseverance,,ASH,89,Standard,Common,False,$0.09,$0.63
+2,Perseverance,,ASH,353,Hyperspace,Common,False,$0.11,$0.22
+1,Perseverance,,ASH,591,Hyperspace Foil,Common,True,$0.17,$0.17
+4,At Attin Safety Droid,,ASH,70,Standard,Rare,False,$0.24,$0.96
+7,Battered Haulcraft,,ASH,71,Standard,Common,False,$0.10,$0.70
+3,Battered Haulcraft,,ASH,335,Hyperspace,Common,False,$0.15,$0.45
+2,Battered Haulcraft,,ASH,573,Hyperspace Foil,Common,True,$0.19,$0.38
+3,Scion Shuttle,At Morgan's Bidding,ASH,46,Standard,Uncommon,False,$0.13,$0.39
+1,Scion Shuttle,At Morgan's Bidding,ASH,310,Hyperspace,Uncommon,False,$0.27,$0.27
+1,Reforge,,ASH,90,Standard,Rare,False,$4.86,$4.86
+3,Lothal E-Wing,,ASH,57,Standard,Common,False,$0.10,$0.30
+1,Lothal E-Wing,,ASH,321,Hyperspace,Common,False,$0.14,$0.14
+2,Lothal E-Wing,,ASH,559,Hyperspace Foil,Common,True,$0.12,$0.24
+5,Durasteel Plating,,ASH,86,Standard,Common,False,$0.11,$0.55
+2,Durasteel Plating,,ASH,350,Hyperspace,Common,False,$0.15,$0.30
+2,Rancor Keeper,,ASH,32,Standard,Uncommon,False,$0.16,$0.32
+2,Palace Chef Droid,,ASH,337,Hyperspace,Common,False,$0.18,$0.36
+1,Arcana Star Map,Path to Peridea,ASH,84,Standard,Legendary,False,$1.47,$1.47
+1,Populist Advisor,,SEC,41,Standard,Uncommon,False,$0.12,$0.12
+4,Pointless to Resist,,ASH,54,Standard,Uncommon,False,$0.17,$0.68
+1,Pointless to Resist,,ASH,318,Hyperspace,Uncommon,False,$0.26,$0.26
+1,Dhani Pilgrim,,SEC,55,Standard,Common,False,$0.07,$0.07
+3,Reanimated Night Trooper,,ASH,45,Standard,Common,False,$0.13,$0.39
+2,Reanimated Night Trooper,,ASH,309,Hyperspace,Common,False,$0.11,$0.22
+1,Reanimated Night Trooper,,ASH,547,Hyperspace Foil,Common,True,$0.12,$0.12
+1,Reanimated Night Trooper,,ASHP,5,Weekly Play,Common,False,$0.13,$0.13
+2,Reanimated Night Trooper,,ASHP,25,Weekly Play Foil,Common,True,$0.63,$1.26
+5,Noti Nomad,,ASH,69,Standard,Common,False,$0.14,$0.70
+1,Noti Nomad,,ASH,333,Hyperspace,Common,False,$0.08,$0.08
+1,Loth-Cat,,LOF,471,Hyperspace,Common,False,$0.23,$0.23
+4,Grav Charge,,ASH,85,Standard,Uncommon,False,$0.16,$0.64
+3,Domesticated Loth-Cat,,ASH,68,Standard,Uncommon,False,$0.16,$0.48
+2,Domesticated Loth-Cat,,ASH,332,Hyperspace,Uncommon,False,$0.23,$0.46
+2,Summa-verminoth,,ASH,83,Standard,Legendary,False,$0.43,$0.86
+5,Home One,Heart of the Fleet,ASH,65,Standard,Uncommon,False,$0.12,$0.60
+2,The Armorer,Secrecy is Our Survival,ASH,64,Standard,Uncommon,False,$0.18,$0.36
+1,The Armorer,Secrecy is Our Survival,ASH,328,Hyperspace,Uncommon,False,$0.25,$0.25
+7,Trexler Armored Marauder,,ASH,82,Standard,Common,False,$0.09,$0.63
+1,Trexler Armored Marauder,,ASH,584,Hyperspace Foil,Common,True,$0.09,$0.09
+4,Morgan Elsbeth,Life Abandoned,ASH,50,Standard,Uncommon,False,$0.16,$0.64
+1,Morgan Elsbeth,Life Abandoned,ASHP,6,Weekly Play,Uncommon,False,$0.33,$0.33
+5,Reinforcing Light Cruiser,,ASH,51,Standard,Common,False,$0.10,$0.50
+1,Reinforcing Light Cruiser,,ASH,315,Hyperspace,Common,False,$0.12,$0.12
+2,Scorpenek Annihilator Droid,,ASH,29,Standard,Uncommon,False,$0.16,$0.32
+1,Scorpenek Annihilator Droid,,ASH,293,Hyperspace,Uncommon,False,$0.37,$0.37
+1,Scorpenek Annihilator Droid,,ASHP,2,Weekly Play,Uncommon,False,$2.00,$2.00
+2,Shin Hati,Going Somewhere?,ASH,49,Standard,Uncommon,False,$0.18,$0.36
+1,Shin Hati,Going Somewhere?,ASH,551,Hyperspace Foil,Uncommon,True,$0.65,$0.65
+1,Congress of Malastare,,SEC,64,Standard,Common,False,$0.04,$0.04
+5,Nebulon-C Frigate,,ASH,81,Standard,Common,False,$0.11,$0.55
+1,Nebulon-C Frigate,,ASH,345,Hyperspace,Common,False,$0.10,$0.10
+5,Covert Believers,,ASH,80,Standard,Common,False,$0.11,$0.55
+1,Covert Believers,,ASH,582,Hyperspace Foil,Common,True,$0.14,$0.14
+1,Bo-Katan's Gauntlet,Reinforce from Above,ASH,63,Standard,Rare,False,$0.68,$0.68
+2,The Mandalorian,Devoted Rescuer,ASH,62,Standard,Legendary,False,$14.57,$29.14
+2,Cobb Vanth,Let Me Handle This,ASH,60,Standard,Rare,False,$0.25,$0.50
+4,Imperial Armored Commando,,ASH,48,Standard,Common,False,$0.16,$0.64
+1,Imperial Armored Commando,,ASH,312,Hyperspace,Common,False,$0.31,$0.31
+5,Foundling Rescue,,ASH,92,Standard,Common,False,$0.10,$0.50
+1,Foundling Rescue,,ASH,356,Hyperspace,Common,False,$0.10,$0.10
+6,B-Wing Rearguard,,ASH,78,Standard,Common,False,$0.10,$0.60
+2,B-Wing Rearguard,,ASH,580,Hyperspace Foil,Common,True,$0.21,$0.42
+5,Strike Team Vanguard,,ASH,61,Standard,Common,False,$0.11,$0.55
+3,Enoch,Solemn Servant,ASH,27,Standard,Rare,False,$0.25,$0.75
+3,Get Lost,,ASH,67,Standard,Uncommon,False,$0.16,$0.48
+1,Get Lost,,ASH,569,Hyperspace Foil,Uncommon,True,$0.20,$0.20
+1,Ryder Azadi,Restored Governor,ASH,579,Hyperspace Foil,Rare,True,$4.15,$4.15
+2,Gar Saxon,Coveting Power,ASH,311,Hyperspace,Rare,False,$0.85,$1.70
+6,Pit Droid Team,,ASH,75,Standard,Common,False,$0.11,$0.66
+1,Pit Droid Team,,ASH,339,Hyperspace,Common,False,$0.10,$0.10
+1,Marrok,Mysterious Warrior,ASH,30,Standard,Rare,False,$1.70,$1.70
+2,Peridea Bandit,,ASH,692,Hyperspace Foil,Common,True,$0.07,$0.14
+5,Peridea Bandit,,ASH,190,Standard,Common,False,$0.14,$0.70
+1,Peridea Bandit,,ASH,454,Hyperspace,Common,False,$0.11,$0.11
+1,Mando's N-1 Starfighter,Faster than a Fathier,ASH,467,Hyperspace,Rare,False,$0.59,$0.59
+1,Fateful Goodbye,,ASH,211,Standard,Rare,False,$0.15,$0.15
+2,Shin Hati's Fiend Fighter,Compact and Agile,ASH,191,Standard,Uncommon,False,$0.22,$0.44
+1,Shin Hati's Fiend Fighter,Compact and Agile,ASH,455,Hyperspace,Uncommon,False,$0.43,$0.43
+1,Emissary's Sheathipede,,SEC,215,Standard,Common,False,$0.17,$0.17
+1,Carson Teva,There's Something Going On,ASH,202,Standard,Rare,False,$0.19,$0.19
+1,Carson Teva,There's Something Going On,ASH,704,Hyperspace Foil,Rare,True,$0.42,$0.42
+4,Keep Them Talking,,ASH,233,Standard,Common,False,$0.15,$0.60
+1,Keep Them Talking,,ASH,497,Hyperspace,Common,False,$0.11,$0.11
+1,Keep Them Talking,,ASH,735,Hyperspace Foil,Common,True,$0.11,$0.11
+5,Masterstroke,,ASH,234,Standard,Common,False,$0.14,$0.70
+2,Masterstroke,,ASH,736,Hyperspace Foil,Common,True,$0.16,$0.32
+3,Full of Surprises,,ASH,232,Standard,Common,False,$0.07,$0.21
+2,Full of Surprises,,ASH,734,Hyperspace Foil,Common,True,$0.14,$0.28
+1,Amnesty Officer,,ASH,214,Standard,Common,False,$0.08,$0.08
+3,Amnesty Officer,,ASH,478,Hyperspace,Common,False,$0.07,$0.21
+1,Nowhere to Hide,,ASH,198,Standard,Uncommon,False,$0.11,$0.11
+4,Flanking TIE Interceptor,,ASH,215,Standard,Common,False,$0.15,$0.60
+1,Flanking TIE Interceptor,,ASH,479,Hyperspace,Common,False,$0.17,$0.17
+3,Flanking TIE Interceptor,,ASH,717,Hyperspace Foil,Common,True,$0.15,$0.45
+4,Mayor's Majordomo,No Problem Groveling,ASH,217,Standard,Uncommon,False,$0.13,$0.52
+5,Mandalorian Scout,,ASH,216,Standard,Common,False,$0.09,$0.45
+1,Mandalorian Scout,,ASH,480,Hyperspace,Common,False,$0.22,$0.22
+6,Emperor's Messenger,,ASH,189,Standard,Common,False,$0.13,$0.78
+2,DDC Defender,,ASH,210,Standard,Uncommon,False,$0.12,$0.24
+6,Diplomatic Pageantry,,ASH,231,Standard,Common,False,$0.07,$0.42
+1,Diplomatic Pageantry,,ASH,495,Hyperspace,Common,False,$0.08,$0.08
+3,Open Circle Ace,,ASH,201,Standard,Common,False,$0.10,$0.30
+1,Open Circle Ace,,ASH,465,Hyperspace,Common,False,$0.16,$0.16
+1,Open Circle Ace,,ASH,703,Hyperspace Foil,Common,True,$0.17,$0.17
+1,Peli Motto,You Bring the Cash?,ASH,212,Standard,Rare,False,$0.25,$0.25
+1,Peli Motto,You Bring the Cash?,ASH,476,Hyperspace,Rare,False,$0.42,$0.42
+6,Preparation,,ASH,228,Standard,Common,False,$0.13,$0.78
+4,Heightened Awareness,,ASH,227,Standard,Common,False,$0.07,$0.28
+1,Heightened Awareness,,ASH,729,Hyperspace Foil,Common,True,$0.12,$0.12
+6,Womp Rat,,ASH,213,Standard,Common,False,$0.07,$0.42
+1,Womp Rat,,ASH,477,Hyperspace,Common,False,$0.15,$0.15
+1,Qi'ra,Master of Teräs Käsi,ASH,226,Standard,Uncommon,False,$0.14,$0.14
+3,Ezra Bridger,The Force is All I Need,ASH,209,Standard,Uncommon,False,$0.15,$0.45
+4,Ezra Bridger,The Force is All I Need,ASH,473,Hyperspace,Uncommon,False,$0.20,$0.80
+1,Gorian Shard's Corsair,Pirate Warship,ASH,460,Hyperspace,Legendary,False,$2.70,$2.70
+2,Gorian Shard's Corsair,Pirate Warship,ASH,196,Standard,Legendary,False,$1.93,$3.86
+4,Tatooine Sand Beast,,ASH,225,Standard,Common,False,$0.10,$0.40
+1,Tatooine Sand Beast,,ASH,489,Hyperspace,Common,False,$0.11,$0.11
+3,Tatooine Sand Beast,,ASHP,39,Weekly Play Foil,Common,True,$0.68,$2.04
+5,Heroic Purrgil,,ASH,207,Standard,Common,False,$0.13,$0.65
+1,Helgait,Dooku Was a Visionary,ASH,195,Standard,Rare,False,$0.61,$0.61
+2,Rehabilitation,,ASH,200,Standard,Rare,False,$0.17,$0.34
+1,Rehabilitation,,ASH,702,Hyperspace Foil,Rare,True,$0.59,$0.59
+3,Halo,Not According to Plan,ASH,223,Standard,Uncommon,False,$0.13,$0.39
+1,Halo,Not According to Plan,ASH,487,Hyperspace,Uncommon,False,$0.20,$0.20
+4,Sabine Wren,I Learned the Hard Way,ASH,208,Standard,Uncommon,False,$0.24,$0.96
+1,Sabine Wren,Spectre Five,LAW,796,Standard Prestige,Uncommon,False,$3.94,$3.94
+1,Emperor's Champion,,ASH,695,Hyperspace Foil,Common,True,$0.19,$0.19
+1,Loan Shark,,SEC,222,Standard,Common,False,$0.08,$0.08
+1,Snub Fighter Squadron,,ASH,194,Standard,Uncommon,False,$0.19,$0.19
+1,Snub Fighter Squadron,,ASH,696,Hyperspace Foil,Uncommon,True,$0.40,$0.40
+5,Helix Starfighter,,ASH,221,Standard,Common,False,$0.15,$0.75
+1,Helix Starfighter,,ASH,723,Hyperspace Foil,Common,True,$0.14,$0.14
+4,Unsanctioned Patrol,,ASH,222,Standard,Common,False,$0.12,$0.48
+1,Fennec Shand,Honoring the Deal,SHD,295,Hyperspace,Common,False,$0.12,$0.12
+2,Far Far Away,,ASH,236,Standard,Uncommon,False,$0.21,$0.42
+3,J-Type Nubian Starship,,LOFP,16,Weekly Play,Common,False,$0.05,$0.15
+2,Blade Three,Bane of the Devastator,ASH,204,Standard,Uncommon,False,$0.17,$0.34
+4,Ferry Droid,,ASH,218,Standard,Common,False,$0.14,$0.56
+1,Ferry Droid,,ASH,482,Hyperspace,Common,False,$0.14,$0.14
+1,Ferry Droid,,ASH,720,Hyperspace Foil,Common,True,$0.13,$0.13
+4,Barriss Offee,Redeeming Herself,ASH,44,Standard,Uncommon,False,$0.14,$0.56
+1,Barriss Offee,Redeeming Herself,ASH,308,Hyperspace,Uncommon,False,$0.29,$0.29
+3,Inspiring Veteran,,ASH,205,Standard,Common,False,$0.07,$0.21
+3,Inspiring Veteran,,ASH,469,Hyperspace,Common,False,$0.11,$0.33
+1,Jod Na Nawood,Keeping Secrets,ASH,219,Standard,Rare,False,$1.56,$1.56
+1,Far Far Away,,ASH,738,Hyperspace Foil,Uncommon,True,$0.36,$0.36
+2,Remnant Lookouts,,ASH,220,Standard,Uncommon,False,$0.17,$0.34
+1,Fennec Shand,Honoring the Deal,SHD,16,Standard,Common,False,$0.06,$0.06
+1,Camtono,,ASH,229,Standard,Rare,False,$0.31,$0.31
+1,Pegasus Tri-Wing,,ASH,673,Hyperspace Foil,Common,True,$0.17,$0.17
+1,Grogu,Yes. Yes. Yes.,ASH,155,Standard,Legendary,False,$2.42,$2.42
+2,Axe Woves,Undaunted,ASH,169,Standard,Uncommon,False,$0.15,$0.30
+1,Vane's Snub Fighter,Brash and Proud,ASH,144,Standard,Rare,False,$0.33,$0.33
+2,Unfettered Ambition,,ASH,182,Standard,Rare,False,$0.23,$0.46
+1,Unfettered Ambition,,ASH,684,Hyperspace Foil,Rare,True,$0.62,$0.62
+3,Intimidation,,ASH,185,Standard,Common,False,$0.09,$0.27
+2,Intimidation,,ASH,449,Hyperspace,Common,False,$0.10,$0.20
+3,Mortar Trooper,,ASH,142,Standard,Uncommon,False,$0.15,$0.45
+1,Mortar Trooper,,ASH,644,Hyperspace Foil,Uncommon,True,$0.33,$0.33
+1,Migs Mayfeld,How About a Toast?,ASH,168,Standard,Rare,False,$0.33,$0.33
+5,Ewok Warrior,,ASH,166,Standard,Common,False,$0.12,$0.60
+3,Ewok Warrior,,ASH,430,Hyperspace,Common,False,$0.19,$0.57
+1,Ewok Warrior,,ASH,668,Hyperspace Foil,Common,True,$0.17,$0.17
+3,Outcast,Mercenary Starship,ASH,41,Standard,Uncommon,False,$0.12,$0.36
+7,Tempest Lieutenant,,ASH,143,Standard,Common,False,$0.12,$0.84
+2,Tempest Lieutenant,,ASH,407,Hyperspace,Common,False,$0.16,$0.32
+2,Tempest Lieutenant,,ASH,645,Hyperspace Foil,Common,True,$0.09,$0.18
+4,Flarestar Attack Shuttle,,ASH,167,Standard,Common,False,$0.12,$0.48
+1,Flarestar Attack Shuttle,,ASH,431,Hyperspace,Common,False,$0.13,$0.13
+4,Rash Action,,ASH,162,Standard,Uncommon,False,$0.13,$0.52
+5,Clan Vizsla Soldier,,ASH,165,Standard,Common,False,$0.10,$0.50
+2,Clan Vizsla Soldier,,ASH,429,Hyperspace,Common,False,$0.12,$0.24
+1,Clan Vizsla Soldier,,ASH,667,Hyperspace Foil,Common,True,$0.16,$0.16
+6,Honorable Nite Owl,,ASH,154,Standard,Common,False,$0.11,$0.66
+2,Honorable Nite Owl,,ASH,656,Hyperspace Foil,Common,True,$0.13,$0.26
+1,Twice the Pride,,TWI,155,Standard,Uncommon,False,$0.10,$0.10
+3,Follow Me,,ASH,184,Standard,Common,False,$0.12,$0.36
+2,Follow Me,,ASH,686,Hyperspace Foil,Common,True,$0.16,$0.32
+5,Alamite Hunter,,ASH,164,Standard,Common,False,$0.06,$0.30
+1,Alamite Hunter,,ASH,428,Hyperspace,Common,False,$0.10,$0.10
+1,Alamite Hunter,,ASH,666,Hyperspace Foil,Common,True,$0.08,$0.08
+9,Inspired Recruit,,ASH,152,Standard,Common,False,N/A,N/A
+1,Inspired Recruit,,ASH,654,Hyperspace Foil,Common,True,$0.12,$0.12
+4,Mark My Words,,ASH,181,Standard,Common,False,$0.15,$0.60
+1,Mark My Words,,ASH,683,Hyperspace Foil,Common,True,$0.14,$0.14
+4,TIE Striker,,ASH,141,Standard,Common,False,$0.10,$0.40
+1,Bokken Saber,,ASH,180,Standard,Uncommon,False,$0.15,$0.15
+1,Bokken Saber,,ASH,444,Hyperspace,Uncommon,False,$0.20,$0.20
+2,Bokken Saber,,ASH,682,Hyperspace Foil,Uncommon,True,$0.33,$0.66
+1,Eviscerator,Burn Them Away,ASH,651,Hyperspace Foil,Rare,True,$2.39,$2.39
+1,Zeb Orrelios,Fists Work Every Time,ASH,425,Hyperspace,Legendary,False,$4.25,$4.25
+4,Knobby White Ice Spider,,ASH,178,Standard,Uncommon,False,$0.14,$0.56
+1,Knobby White Ice Spider,,ASH,442,Hyperspace,Uncommon,False,$0.15,$0.15
+1,The Mandalorian,We Can't Keep Running,ASH,14,Standard,Rare,False,$0.22,$0.22
+5,Imposing Scout Walker,,ASH,176,Standard,Common,False,$0.11,$0.55
+2,Imposing Scout Walker,,ASH,440,Hyperspace,Common,False,$0.16,$0.32
+3,The Cyborg Mech,Mysterious Threat,ASH,147,Standard,Uncommon,False,$0.20,$0.60
+1,The Cyborg Mech,Mysterious Threat,ASH,649,Hyperspace Foil,Uncommon,True,$0.36,$0.36
+1,Hondo Ohnaka,You Better Hurry,SEC,140,Standard,Uncommon,False,$0.12,$0.12
+2,Baylan Skoll,Fallen Jedi,ASH,39,Standard,Rare,False,$0.26,$0.52
+1,Baylan Skoll,Fallen Jedi,ASH,303,Hyperspace,Rare,False,$0.41,$0.41
+1,Alphabet Squadron U-Wing,Quiet Devotion,ASH,159,Standard,Uncommon,False,$0.18,$0.18
+1,Alphabet Squadron U-Wing,Quiet Devotion,ASH,423,Hyperspace,Uncommon,False,$0.30,$0.30
+1,Alphabet Squadron U-Wing,Quiet Devotion,ASH,661,Hyperspace Foil,Uncommon,True,$0.26,$0.26
+1,Kachirho Militia,,ASH,160,Standard,Uncommon,False,$0.13,$0.13
+5,StarFortress Heavy Bomber,,ASH,174,Standard,Common,False,$0.10,$0.50
+3,Justifier,Relentless,ASH,146,Standard,Uncommon,False,$0.20,$0.60
+1,Justifier,Relentless,ASH,410,Hyperspace,Uncommon,False,$0.37,$0.37
+4,Wookiee Chieftain,,ASH,175,Standard,Common,False,$0.11,$0.44
+1,Wookiee Chieftain,,ASH,439,Hyperspace,Common,False,$0.09,$0.09
+3,Danger Squadron Wingmen,,ASH,157,Standard,Common,False,$0.13,$0.39
+3,Razor Crest,Outfitted Armament,ASH,172,Standard,Uncommon,False,$0.19,$0.57
+1,Razor Crest,Outfitted Armament,ASH,674,Hyperspace Foil,Uncommon,True,$0.24,$0.24
+1,Strike Force X-Wing,,SEC,152,Standard,Common,False,$0.09,$0.09
+1,Arihnda Pryce,On the Road to Power,SEC,136,Standard,Rare,False,$0.39,$0.39
+2,Shydopp Pirate Skiff,,ASH,173,Standard,Common,False,$0.13,$0.26
+2,Shydopp Pirate Skiff,,ASH,437,Hyperspace,Common,False,$0.12,$0.24
+3,Galvanized Leap,,ASH,188,Standard,Common,False,$0.09,$0.27
+2,Galvanized Leap,,ASH,452,Hyperspace,Common,False,$0.17,$0.34
+5,Praetorian Elite,,ASH,145,Standard,Common,False,$0.11,$0.55
+3,Praetorian Elite,,ASH,409,Hyperspace,Common,False,$0.10,$0.30
+1,Praetorian Elite,,ASH,647,Hyperspace Foil,Common,True,$0.15,$0.15
+1,Whistling Birds,,ASH,183,Standard,Legendary,False,$4.29,$4.29
+3,Reckoning,,ASH,187,Standard,Uncommon,False,$0.27,$0.81
+2,R5-D4,Built for Adventure,ASH,156,Standard,Uncommon,False,$0.21,$0.42
+2,R5-D4,Built for Adventure,ASH,420,Hyperspace,Uncommon,False,$0.58,$1.16
+2,Desert Sharpshooter,,ASH,170,Standard,Common,False,$0.12,$0.24
+3,Pegasus Tri-Wing,,ASH,171,Standard,Common,False,$0.12,$0.36
+1,Pegasus Tri-Wing,,ASH,435,Hyperspace,Common,False,$0.17,$0.17
+4,Clan Wren Loyalist,,ASH,107,Standard,Common,False,$0.11,$0.44
+1,Rukh,From the Shadows,ASH,36,Standard,Rare,False,$0.19,$0.19
+1,Rukh,From the Shadows,ASH,538,Hyperspace Foil,Rare,True,$0.83,$0.83
+6,Turning the Tide,,ASH,138,Standard,Common,False,$0.10,$0.60
+1,Turning the Tide,,ASH,402,Hyperspace,Common,False,$0.10,$0.10
+6,Forest Patroller,,ASH,96,Standard,Common,False,$0.11,$0.66
+1,Forest Patroller,,ASH,598,Hyperspace Foil,Common,True,$0.33,$0.33
+3,Crix Madine,Strike Team Strategist,ASH,108,Standard,Uncommon,False,$0.18,$0.54
+1,Crix Madine,Strike Team Strategist,ASH,372,Hyperspace,Uncommon,False,$0.24,$0.24
+6,Blurrg,,ASH,121,Standard,Common,False,$0.10,$0.60
+1,Blurrg,,ASH,385,Hyperspace,Common,False,$0.12,$0.12
+1,Blurrg,,ASH,623,Hyperspace Foil,Common,True,$0.12,$0.12
+2,Blurrg,,ASHP,12,Weekly Play,Common,False,$0.12,$0.24
+2,Blurrg,,ASHP,32,Weekly Play Foil,Common,True,$0.76,$1.52
+3,Moff Gideon,Remnant Commander,ASH,97,Standard,Uncommon,False,$0.21,$0.63
+1,Moff Gideon,Remnant Commander,ASH,599,Hyperspace Foil,Uncommon,True,$1.00,$1.00
+4,Consortium StarViper,,SOR,112,Standard,Common,False,$0.06,$0.24
+6,Warrior's Legacy,,ASH,134,Standard,Common,False,$0.10,$0.60
+1,Warrior's Legacy,,ASH,636,Hyperspace Foil,Common,True,$0.13,$0.13
+2,Moff Jerjerrod,We Shall Redouble Our Efforts,ASH,596,Hyperspace Foil,Special,True,$0.59,$1.18
+2,8D8,Daimyo's Majordomo,ASH,118,Standard,Rare,False,$0.28,$0.56
+5,Pathfinder Sergeant,,ASH,106,Standard,Common,False,$0.09,$0.45
+1,Pathfinder Sergeant,,ASH,370,Hyperspace,Common,False,$0.16,$0.16
+1,Pathfinder Sergeant,,ASH,608,Hyperspace Foil,Common,True,$0.16,$0.16
+4,Remnant Interceptor,,ASH,95,Standard,Common,False,$0.10,$0.40
+2,Remnant Interceptor,,ASH,597,Hyperspace Foil,Common,True,$0.19,$0.38
+3,Captain Pellaeon,Plotting from the Shadows,ASH,93,Standard,Uncommon,False,$0.13,$0.39
+1,Captain Pellaeon,Plotting from the Shadows,ASH,357,Hyperspace,Uncommon,False,$0.28,$0.28
+3,Long Live the Empire,,ASH,103,Standard,Uncommon,False,$0.19,$0.57
+1,Long Live the Empire,,ASH,605,Hyperspace Foil,Uncommon,True,$0.45,$0.45
+4,Greef Karga,Introductions are in Order,ASH,119,Standard,Uncommon,False,$0.14,$0.56
+1,Greef Karga,Introductions are in Order,ASHP,11,Weekly Play,Uncommon,False,$0.23,$0.23
+5,Warrior of Clan Kryze,,ASH,120,Standard,Common,False,$0.12,$0.60
+1,Warrior of Clan Kryze,,ASH,384,Hyperspace,Common,False,$0.15,$0.15
+1,Warrior of Clan Kryze,,ASH,622,Hyperspace Foil,Common,True,$0.15,$0.15
+1,Sabine's Lightsaber,Not Alone,ASH,114,Standard,Rare,False,$0.87,$0.87
+4,Display of Strength,,ASH,136,Standard,Common,False,$0.13,$0.52
+1,Display of Strength,,ASH,638,Hyperspace Foil,Common,True,$0.15,$0.15
+1,GNK Power Droid,,SEC,110,Standard,Common,False,$0.24,$0.24
+1,Wipe Them Out,,ASH,137,Standard,Uncommon,False,$0.15,$0.15
+1,The Student Guides the Master,,ASH,379,Hyperspace,Uncommon,False,$0.16,$0.16
+1,The Student Guides the Master,,ASH,115,Standard,Uncommon,False,$0.13,$0.13
+6,Outland Protector,,ASH,117,Standard,Common,False,$0.11,$0.66
+1,Outland Protector,,ASH,619,Hyperspace Foil,Common,True,$0.16,$0.16
+1,Wicket,Yub Nub!,ASH,826,Standard Prestige,Rare,False,$2.81,$2.81
+1,Wicket,Yub Nub!,ASHP,3,Weekly Play,Rare,False,$1.11,$1.11
+3,Ant Droid,,ASH,116,Standard,Common,False,$0.13,$0.39
+2,Purrgil Ultra,,ASH,38,Standard,Uncommon,False,$0.16,$0.32
+2,Trask Walker,,ASH,133,Standard,Uncommon,False,$0.21,$0.42
+1,Trask Walker,,ASH,397,Hyperspace,Uncommon,False,$0.43,$0.43
+2,Tatooine Repulsor Train,,ASH,35,Standard,Uncommon,False,$0.14,$0.28
+1,Red Leader,Strike the Reactor,ASH,37,Standard,Rare,False,$0.29,$0.29
+1,Red Leader,Strike the Reactor,ASH,301,Hyperspace,Rare,False,$0.47,$0.47
+2,Mandalorian Flagship,Captured from the Empire,ASH,113,Standard,Uncommon,False,$0.15,$0.30
+3,Mandalorian Flagship,Captured from the Empire,ASH,615,Hyperspace Foil,Uncommon,True,$0.37,$1.11
+1,The Great Mothers,With Strange Magicks,ASH,101,Standard,Rare,False,$0.18,$0.18
+1,Grand Admiral Thrawn,Orchestrating His Return,ASH,788,Standard Prestige,Rare,False,$2.17,$2.17
+2,Queen Soruna,Willing to Fight,ASH,132,Standard,Rare,False,$0.22,$0.44
+1,Kanan Jarrus,Revealed Jedi,SOR,47,Standard,Uncommon,False,$0.22,$0.22
+5,Children of the Watch,,ASH,111,Standard,Common,False,$0.09,$0.45
+1,Children of the Watch,,ASH,375,Hyperspace,Common,False,$0.15,$0.15
+1,Children of the Watch,,ASH,613,Hyperspace Foil,Common,True,$0.18,$0.18
+4,Dinosaur Turtle,,ASH,131,Standard,Common,False,$0.14,$0.56
+2,Dinosaur Turtle,,ASH,395,Hyperspace,Common,False,$0.12,$0.24
+2,Dinosaur Turtle,,ASHP,33,Weekly Play Foil,Common,True,$1.11,$2.22
+1,Bothan-5,New Republic Prison Ship,ASH,128,Standard,Rare,False,$0.18,$0.18
+3,Gozanti Assault Carrier,,ASH,99,Standard,Uncommon,False,$0.18,$0.54
+1,Gozanti Assault Carrier,,ASH,363,Hyperspace,Uncommon,False,$0.53,$0.53
+1,Cruel Commandos,,SEC,86,Standard,Common,False,$0.08,$0.08
+5,Defenders of the Forest,,ASH,129,Standard,Common,False,$0.13,$0.65
+2,Defenders of the Forest,,ASH,393,Hyperspace,Common,False,$0.18,$0.36
+7,Fang Fighter Squadron,,ASH,130,Standard,Common,False,$0.12,$0.84
+1,Fang Fighter Squadron,,ASH,632,Hyperspace Foil,Common,True,$0.11,$0.11
+2,Stolen Eta Shuttle,,ASH,125,Standard,Uncommon,False,$0.13,$0.26
+6,Hold Them Off,,ASH,139,Standard,Uncommon,False,$0.13,$0.78
+1,The Twins,We Don't Want War,ASH,127,Standard,Rare,False,$0.33,$0.33
+2,The Twins,We Don't Want War,ASH,391,Hyperspace,Rare,False,$0.96,$1.92
+2,T-6 Shuttle 1974,With a Mentor's Dedication,ASH,109,Standard,Uncommon,False,$0.24,$0.48
+2,T-6 Shuttle 1974,With a Mentor's Dedication,ASH,611,Hyperspace Foil,Uncommon,True,$0.63,$1.26
+5,Stronger Together,,ASH,140,Standard,Common,False,$0.11,$0.55
+1,Stronger Together,,ASH,642,Hyperspace Foil,Common,True,$0.18,$0.18
+5,Survivors' Langskib,,ASH,126,Standard,Common,False,$0.08,$0.40
+1,Survivors' Langskib,,ASH,390,Hyperspace,Common,False,$0.13,$0.13
+1,Survivors' Langskib,,ASH,628,Hyperspace Foil,Common,True,$0.17,$0.17
+4,AT-ST Raider,,ASH,98,Standard,Common,False,$0.11,$0.44
+2,AT-ST Raider,,ASH,362,Hyperspace,Common,False,$0.18,$0.36
+2,AT-ST Raider,,ASH,600,Hyperspace Foil,Common,True,$0.18,$0.36
+5,Protectorate Fighter,,ASH,124,Standard,Common,False,$0.08,$0.40
+1,Protectorate Fighter,,ASH,626,Hyperspace Foil,Common,True,$0.19,$0.19
+5,Rebel Infiltrators,,ASH,256,Standard,Common,False,$0.12,$0.60
+2,Rebel Infiltrators,,ASH,520,Hyperspace,Common,False,$0.14,$0.28
+2,Grassroots Resistance,,SEC,258,Standard,Common,False,$0.07,$0.14
+2,Grassroots Resistance,,SEC,522,Hyperspace,Common,False,$0.23,$0.46
+1,Grassroots Resistance,,ASH,760,Hyperspace Foil,Common,True,$0.14,$0.14
+5,Gallofree Transport,,ASH,254,Standard,Common,False,$0.13,$0.65
+2,Gallofree Transport,,ASH,518,Hyperspace,Common,False,$0.15,$0.30
+1,Gallofree Transport,,ASH,756,Hyperspace Foil,Common,True,$0.08,$0.08
+1,Covert Operative,,SEC,517,Hyperspace,Common,False,$0.07,$0.07
+2,Yellow Aces Bomber,,ASH,517,Hyperspace,Uncommon,False,$0.73,$1.46
+7,N5 Sentry Droid,,ASH,252,Standard,Common,False,$0.11,$0.77
+1,N5 Sentry Droid,,ASH,516,Hyperspace,Common,False,$0.09,$0.09
+1,N5 Sentry Droid,,ASH,754,Hyperspace Foil,Common,True,$0.13,$0.13
+3,Imperial Defector,,ASH,250,Standard,Common,False,$0.07,$0.21
+1,High Command Councilor,,SEC,249,Standard,Common,False,$0.07,$0.07
+4,Zealous Soldier,,ASH,251,Standard,Common,False,$0.10,$0.40
+2,Zealous Soldier,,ASH,753,Hyperspace Foil,Common,True,$0.17,$0.34
+4,Covert Veteran,,ASH,249,Standard,Common,False,$0.11,$0.44
+1,Covert Veteran,,ASH,513,Hyperspace,Common,False,$0.14,$0.14
+1,Imperial Defector,,ASH,752,Hyperspace Foil,Common,True,$0.16,$0.16
+1,Eye of Sion,Delivered from Exile,ASH,245,Standard,Legendary,False,$1.01,$1.01
+6,Remnant Trooper Corps,,ASH,244,Standard,Common,False,$0.17,$1.02
+1,Death Trooper,,SEC,30,Standard,Common,False,$0.09,$0.09
+3,Death Trooper,,SOR,33,Standard,Common,False,$0.21,$0.63
+1,Death Trooper,,SEC,540,Standard Foil,Common,True,$0.14,$0.14
+1,Death Trooper,,SHD,30,Standard,Special,False,$0.20,$0.20
+1,Marrok's Fiend Fighter,Formidable Pursuer,ASH,505,Hyperspace,Uncommon,False,$0.28,$0.28
+6,Mandalorian Super Commandos,,ASH,240,Standard,Common,False,$0.09,$0.54
+2,Mandalorian Super Commandos,,ASH,504,Hyperspace,Common,False,$0.14,$0.28
+3,Marrok's Fiend Fighter,Formidable Pursuer,ASH,241,Standard,Uncommon,False,$0.16,$0.48
+2,One Must Destroy to Create,,ASH,247,Standard,Rare,False,$0.48,$0.96
+8,Exploit Advantage,,ASH,246,Standard,Common,False,$0.13,$1.04
+1,Exploit Advantage,,ASH,510,Hyperspace,Common,False,$0.12,$0.12
+1,Exploit Advantage,,ASH,748,Hyperspace Foil,Common,True,$0.12,$0.12
+4,Imperial Loyalist,,ASH,239,Standard,Common,False,$0.12,$0.48
+2,Imperial Loyalist,,ASH,503,Hyperspace,Common,False,$0.12,$0.24
+1,Imperial Loyalist,,ASH,741,Hyperspace Foil,Common,True,$0.49,$0.49
+4,Attendant Navigator,,ASH,238,Standard,Common,False,$0.08,$0.32
+5,Mouse Droid,,ASH,237,Standard,Common,False,$0.11,$0.55
+2,Mouse Droid,,ASH,501,Hyperspace,Common,False,$0.14,$0.28
+2,Mouse Droid,,ASHP,20,Weekly Play,Common,False,$0.14,$0.28
+4,Noti Mobile Pod,,ASH,261,Standard,Common,False,$0.08,$0.32
+2,Noti Mobile Pod,,ASH,763,Hyperspace Foil,Common,True,$0.17,$0.34
+6,Faith in the Empire,,ASH,262,Standard,Common,False,$0.09,$0.54
+3,Mos Espa Watermonger,,ASH,260,Standard,Common,False,$0.11,$0.33
+3,Mos Espa Watermonger,,ASH,762,Hyperspace Foil,Common,True,$0.11,$0.33
+4,The Way of the Mand'alor,,ASH,263,Standard,Common,False,$0.13,$0.52
+1,The Way of the Mand'alor,,ASH,527,Hyperspace,Common,False,$0.15,$0.15
+2,Faith in the Empire,,ASH,526,Hyperspace,Common,False,$0.10,$0.20
+3,LEP Ratcatcher,,ASH,259,Standard,Common,False,$0.17,$0.51
+1,LEP Ratcatcher,,ASH,523,Hyperspace,Common,False,$0.12,$0.12
+1,LEP Ratcatcher,,ASH,761,Hyperspace Foil,Common,True,$0.08,$0.08
+6,A New Order,,ASH,264,Standard,Common,False,$0.08,$0.48
+1,Baylan Skoll,Enigmatic Master,LOFP,14,Weekly Play,Uncommon,False,$0.13,$0.13
+2,Infused Brawler,,LOFP,11,Weekly Play,Uncommon,False,$0.07,$0.14
+1,Acolyte of the Beyond,,LOFP,8,Weekly Play,Common,False,$0.09,$0.09
+1,Luthen Rael,Masquerading Antiquarian,LOFP,21,Weekly Play Foil,Uncommon,True,N/A,N/A
+1,Jedi Consular,,LOFP,5,Weekly Play,Common,False,$0.13,$0.13
+1,C-3PO,Anything I Might Do?,SECP,7,Weekly Play,Uncommon,False,$0.21,$0.21
+1,Calculated Lethality,,SHDOP,10,Weekly Play,Common,False,N/A,N/A
+1,Remnant Reserves,,SHDOP,19,Weekly Play Foil,Rare,True,$0.29,$0.29
+1,Loth-Cat,,LOFP,38,Weekly Play Foil,Common,True,N/A,N/A
+1,Graceful Purrgil,,LOFP,2,Weekly Play,Common,False,$0.07,$0.07
+2,Kino Loy,You Answer to Me,SECP,29,Weekly Play Foil,Uncommon,True,N/A,N/A
+1,Take Captive,,SHD,400,Hyperspace,Common,False,$0.14,$0.14
+3,Strikeship,,LOF,633,Standard Foil,Common,True,$0.18,$0.54
+2,Kelleran Beq,The Sabered Hand,LOF,602,Standard Foil,Uncommon,True,$0.21,$0.42
+1,Sudden Ferocity,,SEC,440,Hyperspace,Common,False,$1.58,$1.58
+1,Hera Syndulla,Renegade General,P26,14,SS Participation,Rare,False,N/A,N/A
+2,Boba Fett,Feared Bounty Hunter,JTLP,15,Weekly Play,Rare,False,$0.83,$1.66
+1,Fett's Firespray,Feared Silhouette,JTLP,18,Weekly Play,Special,False,$0.22,$0.22
+1,Onyx Squadron Brute,,JTLP,22,Weekly Play Foil,Common,True,N/A,N/A
+1,Incapacitate,,LAWP,12,Weekly Play,Common,False,$0.12,$0.12
+1,Secret Battle of Pretend,,LAWP,19,Weekly Play,Uncommon,False,$0.31,$0.31
+1,Secret Battle of Pretend,,LAWP,39,Weekly Play Foil,Uncommon,True,$0.32,$0.32
+1,Palace Chef Droid,,ASHP,29,Weekly Play Foil,Common,True,$0.14,$0.14
+1,Emperor's Messenger,,ASHP,16,Weekly Play,Common,False,$0.12,$0.12
+1,Chopper,Spectre Three,LAWP,24,Weekly Play Foil,Uncommon,True,$0.50,$0.50
+1,Zeb Orellios,Spectre Four,LAWP,3,Weekly Play,Uncommon,False,$0.72,$0.72
+1,Daring Delve,,LAWP,16,Weekly Play,Common,False,$0.11,$0.11
+1,Poe Dameron,One Hell of a Pilot,JTLP,26,Weekly Play Foil,Uncommon,True,N/A,N/A
+1,BB-8,Happy Beeps,JTLP,10,Weekly Play,Uncommon,False,$0.18,$0.18
+1,Gungi,Finding Himself,LOFP,4,Weekly Play,Uncommon,False,$0.27,$0.27
+1,Rey,Nobody,LOF,12,Standard,Rare,False,$0.13,$0.13
+1,Grassroots Resistance,,SECP,20,Weekly Play,Common,False,$0.08,$0.08
+1,Bravo Squadron Fighter,,SECP,18,Weekly Play,Common,False,$0.13,$0.13
+1,Kazuda Xiono,I'm Not A Spy,SECP,13,Weekly Play,Uncommon,False,$0.18,$0.18
+1,HK-87 Assassin Droid,,LOFP,39,Weekly Play Foil,Uncommon,True,N/A,N/A
+1,Boba Fett's Armor,,SHD,224,Standard,Rare,False,$0.33,$0.33
+1,Fett's Firespray,Feared Silhouette,JTL,1046,Standard Prestige,Special,False,$4.68,$4.68
+1,The Mandalorian,Let's See the Puck,LAW,316,Hyperspace,Legendary,False,$6.45,$6.45
+1,Bib Fortuna,Die Wanna Wanga?,LAW,636,Hyperspace Foil,Rare,True,$1.20,$1.20
+1,The Tree Remembers,,LAW,396,Hyperspace,Uncommon,False,$1.70,$1.70
+2,Tear This Ship Apart,,LAW,66,Standard,Legendary,False,$2.03,$4.06
+2,Chewbacca,Mighty Rescuer,LAW,34,Standard,Legendary,False,$3.03,$6.06
+1,K-2SO,Locking the Vault,LAW,343,Hyperspace,Rare,False,$0.89,$0.89
+1,Phantom,Spectre Shuttle,LAW,408,Hyperspace,Rare,False,$0.61,$0.61
+2,Sabine Wren,Spectre Five,LAW,342,Hyperspace,Uncommon,False,$0.91,$1.82
+1,Liberty,Draw Their Fire!,LAW,224,Standard,Legendary,False,$15.27,$15.27
+1,Baze Malbus,Good Luck,LAW,804,Standard Prestige,Rare,False,$0.77,$0.77
+2,Highsinger,Deadly Droid,LAW,59,Standard,Rare,False,$0.43,$0.86
+1,Victor Leader,Leading from the Front,JTL,85,Standard,Rare,False,$4.22,$4.22
+1,Hotshot Maneuver,,JTL,174,Standard,Rare,False,$0.97,$0.97
+1,Citadel Research Center,,LAW,532,Hyperspace Foil,Rare,True,$1.59,$1.59
+1,Black One,Scourge of Starkiller Base,SOR,410,Hyperspace,Legendary,False,$1.61,$1.61
+2,Darth Vader,Meet Your Destiny,ASH,507,Hyperspace,Special,False,$2.65,$5.30
+1,Arcana Star Map,Path to Peridea,ASH,348,Hyperspace,Legendary,False,$1.51,$1.51
+1,Marrok,Mysterious Warrior,P26,20,PQ Participation,Rare,False,N/A,N/A
+1,Darth Vader,Meet Your Destiny,ASH,830,Standard Prestige,Special,False,$9.47,$9.47
+1,Sullustan Sapper,,LAW,583,Hyperspace Foil,Common,True,$0.18,$0.18
+5,Collateral Damage,,LAW,208,Standard,Common,False,$0.16,$0.80
+1,Thermal Detonator,,LAW,201,Standard,Rare,False,$0.34,$0.34
+1,Thermal Detonator,,LAW,465,Hyperspace,Rare,False,$0.54,$0.54
+1,Arvel Skeen,Win and Walk Away,LAW,191,Standard,Uncommon,False,$0.45,$0.45
+1,Enfys Nest's Helmet,,LAW,186,Standard,Rare,False,$0.36,$0.36
+1,Interrogation Droid,,LAW,75,Standard,Uncommon,False,$0.26,$0.26
+4,Haxion Aggressor,,LAW,190,Standard,Common,False,$0.11,$0.44
+2,Haxion Aggressor,,LAW,454,Hyperspace,Common,False,$0.16,$0.32
+1,Haxion Aggressor,,LAW,692,Hyperspace Foil,Common,True,$0.16,$0.16
+2,Salvaged Blaster,,LAW,200,Standard,Uncommon,False,$0.14,$0.28
+3,Cavern Angels X-Wing,,LAW,189,Standard,Common,False,$0.14,$0.42
+3,Cavern Angels X-Wing,,LAW,453,Hyperspace,Common,False,$0.24,$0.72
+4,Cloud-Rider Veteran,,LAW,181,Standard,Common,False,$0.10,$0.40
+1,Cloud-Rider Veteran,,LAW,445,Hyperspace,Common,False,$0.18,$0.18
+1,Cloud-Rider Veteran,,LAW,683,Hyperspace Foil,Common,True,$0.15,$0.15
+4,Weazel,Fighting Back,LAW,182,Standard,Uncommon,False,$0.16,$0.64
+1,Weazel,Fighting Back,LAW,446,Hyperspace,Uncommon,False,$0.28,$0.28
+1,BT-1,Blastomech,LAW,173,Standard,Uncommon,False,$0.26,$0.26
+1,You Hold This,,LAW,85,Standard,Rare,False,$0.25,$0.25
+3,Commence the Festivities,,LAW,202,Standard,Common,False,$0.11,$0.33
+6,Daring Delve,,LAW,203,Standard,Common,False,$0.13,$0.78
+4,"Every Day, More Lies",,LAW,204,Standard,Common,False,$0.11,$0.44
+2,Inspired Recruit,,ASH,416,Hyperspace,Common,False,$0.11,$0.22
+3,Inspired Recruit,,LAW,180,Standard,Common,False,$0.07,$0.21
+1,Inspired Recruit,,LAW,682,Hyperspace Foil,Common,True,$0.15,$0.15
+6,Savareen Survivor,,LAW,188,Standard,Common,False,$0.08,$0.48
+1,Savareen Survivor,,LAW,452,Hyperspace,Common,False,$0.07,$0.07
+1,Savareen Survivor,,LAW,690,Hyperspace Foil,Common,True,$0.09,$0.09
+2,That's a Rock,,LAW,206,Standard,Uncommon,False,$0.16,$0.32
+1,That's a Rock,,LAW,470,Hyperspace,Uncommon,False,$0.31,$0.31
+5,Storm Raider,,LAW,172,Standard,Common,False,$0.09,$0.45
+1,Storm Raider,,LAW,674,Hyperspace Foil,Common,True,$0.16,$0.16
+2,Flash the Vents,,LAW,469,Hyperspace,Common,False,$0.15,$0.30
+1,Flash the Vents,,LAW,205,Standard,Common,False,$0.13,$0.13
+1,Flash the Vents,,LAW,707,Hyperspace Foil,Common,True,$0.25,$0.25
+1,Ben Solo,Facing the Light,LAW,185,Standard,Legendary,False,$1.10,$1.10
+4,Ohnaka Gang Bandits,,LAW,199,Standard,Common,False,$0.10,$0.40
+4,Son-tuul Berserkers,,LAW,177,Standard,Common,False,$0.11,$0.44
+1,Son-tuul Berserkers,,LAW,679,Hyperspace Foil,Common,True,$0.14,$0.14
+1,Aerie,Cloud-Rider Dropship,LAW,184,Standard,Rare,False,$0.25,$0.25
+4,Broken Horn,Vizago's Pride,LAW,83,Standard,Uncommon,False,$0.16,$0.64
+1,Broken Horn,Vizago's Pride,LAW,585,Hyperspace Foil,Uncommon,True,$0.38,$0.38
+4,Dogged Pursuers,,LAW,198,Standard,Common,False,$0.10,$0.40
+1,Shadow of Stygeon Prime,,LAW,77,Standard,Rare,False,$3.56,$3.56
+2,Shifty Suspects,,LAW,197,Standard,Uncommon,False,$0.15,$0.30
+2,Urrr'k,Elite Sharpshooter,LAW,82,Standard,Uncommon,False,$0.15,$0.30
+1,Urrr'k,Elite Sharpshooter,LAW,584,Hyperspace Foil,Uncommon,True,$0.32,$0.32
+4,Relentless Hunters,,LAW,196,Standard,Common,False,$0.11,$0.44
+1,Relentless Hunters,,LAW,698,Hyperspace Foil,Common,True,$0.12,$0.12
+2,B-Wing Skirmisher,,LAW,685,Hyperspace Foil,Common,True,$0.20,$0.40
+3,B-Wing Skirmisher,,LAW,183,Standard,Common,False,$0.14,$0.42
+1,B-Wing Skirmisher,,LAW,447,Hyperspace,Common,False,$0.19,$0.19
+4,Overcharged Transport,,LAW,195,Standard,Common,False,$0.13,$0.52
+1,Overcharged Transport,,LAW,459,Hyperspace,Common,False,$0.14,$0.14
+1,0-0-0,Translation and Torture,LAW,174,Standard,Uncommon,False,$1.48,$1.48
+1,Prototype TIE Advanced,,LAW,677,Hyperspace Foil,Common,True,$0.13,$0.13
+2,Mid Rim Sharpshooter,,LAW,193,Standard,Uncommon,False,$0.20,$0.40
+3,Bracca Shipbreaker,,LAW,192,Standard,Common,False,$0.07,$0.21
+2,Sabine Wren,Spectre Five,LAW,78,Standard,Uncommon,False,$0.28,$0.56
+2,“Staccato Lightning” Repeater,,LAW,187,Standard,Uncommon,False,$0.15,$0.30
+3,Attack From All Sides,,LAW,207,Standard,Common,False,$0.15,$0.45
+1,Prototype TIE Advanced,,JTL,870,Hyperspace Foil,Common,True,$0.27,$0.27
+2,Vult Skerris's Defender,Secret Project,LAW,76,Standard,Rare,False,$1.13,$2.26
+4,Sullustan Sapper,,LAW,81,Standard,Common,False,$0.12,$0.48
+4,Backed by the Hutts,,LAW,247,Standard,Common,False,$0.12,$0.48
+1,Backed by the Hutts,,LAW,749,Hyperspace Foil,Common,True,$0.17,$0.17
+4,Wookiee Guerilla,,LAW,220,Standard,Common,False,$0.09,$0.36
+1,Wookiee Guerilla,,LAW,484,Hyperspace,Common,False,$0.12,$0.12
+1,Wookiee Guerilla,,LAW,722,Hyperspace Foil,Common,True,$0.11,$0.11
+3,Black Sun Patroller,,LAW,211,Standard,Common,False,$0.18,$0.54
+1,Black Sun Patroller,,LAW,475,Hyperspace,Common,False,$0.30,$0.30
+1,The Master Codebreaker,High Stakes,LAW,493,Hyperspace,Rare,False,$3.15,$3.15
+1,The Axe Forgets,,LAW,246,Standard,Common,False,$0.14,$0.14
+2,Secret Battle of Pretend,,LAW,226,Standard,Uncommon,False,$0.15,$0.30
+1,Secret Battle of Pretend,,LAW,490,Hyperspace,Uncommon,False,$0.13,$0.13
+3,Weequay Pirate,,LAW,231,Standard,Common,False,$0.06,$0.18
+1,Weequay Pirate,,LAW,495,Hyperspace,Common,False,$0.10,$0.10
+3,Val,"It's Been a Ride, Babe",LAW,91,Standard,Uncommon,False,$0.20,$0.60
+5,Canyon Frontrunner,,LAW,228,Standard,Common,False,$0.12,$0.60
+1,Canyon Frontrunner,,LAW,492,Hyperspace,Common,False,$0.18,$0.18
+4,Toydarian Technician,,LAW,90,Standard,Common,False,$0.11,$0.44
+2,Toydarian Technician,,LAW,592,Hyperspace Foil,Common,True,$0.19,$0.38
+4,Ohnaka Gang Starhopper,,LAW,230,Standard,Common,False,$0.09,$0.36
+2,Ohnaka Gang Starhopper,,LAW,494,Hyperspace,Common,False,$0.09,$0.18
+1,Ohnaka Gang Starhopper,,LAW,732,Hyperspace Foil,Common,True,$0.13,$0.13
+5,Artful Pickpocket,,LAW,218,Standard,Common,False,$0.11,$0.55
+1,Artful Pickpocket,,LAW,482,Hyperspace,Common,False,$0.09,$0.09
+1,Artful Pickpocket,,LAW,720,Hyperspace Foil,Common,True,$0.11,$0.11
+5,Unmarked Credits,,LAW,244,Standard,Common,False,$0.13,$0.65
+2,Han's Golden Dice,,LAW,225,Standard,Uncommon,False,$0.16,$0.32
+2,Salvaged Materials,,LAW,245,Standard,Uncommon,False,$0.21,$0.42
+2,Transmission Jamming,,LAW,243,Standard,Uncommon,False,$0.17,$0.34
+1,Transmission Jamming,,LAW,507,Hyperspace,Uncommon,False,$0.28,$0.28
+4,Rookie Rocket-jumper,,LAW,227,Standard,Common,False,$0.09,$0.36
+1,Rookie Rocket-jumper,,LAW,729,Hyperspace Foil,Common,True,$0.16,$0.16
+1,Rookie Rocket-jumper,,LAW,491,Hyperspace,Common,False,$0.13,$0.13
+3,Nihil Stormsower,,LAW,209,Standard,Common,False,$0.10,$0.30
+1,Nihil Stormsower,,LAW,473,Hyperspace,Common,False,$0.12,$0.12
+1,Nihil Stormsower,,LAW,711,Hyperspace Foil,Common,True,$0.12,$0.12
+1,Salacious Crumb,Cackling Companion,LAW,474,Hyperspace,Special,False,$0.37,$0.37
+1,Salacious Crumb,Cackling Companion,LAW,712,Hyperspace Foil,Special,True,$0.61,$0.61
+4,Improvise,,LAW,242,Standard,Common,False,$0.14,$0.56
+2,Rhydonium Detonation,,LAW,96,Standard,Rare,False,$0.91,$1.82
+2,Jabba's Rancor,Snack Time!,LAW,216,Standard,Uncommon,False,$0.13,$0.26
+1,Jabba's Rancor,Snack Time!,LAW,822,Standard Prestige,Uncommon,False,$1.02,$1.02
+2,The Blade Wing,The Secret of Shantipole,LAW,241,Standard,Uncommon,False,$0.21,$0.42
+2,Jango Fett,Wily Mercenary,LAW,87,Standard,Uncommon,False,$0.15,$0.30
+4,Milodon Rider,,LAW,240,Standard,Common,False,$0.10,$0.40
+2,Finn,This is a Rescue,SHD,3,Standard,Rare,False,$0.12,$0.24
+6,Circuit Challenger,,LAW,255,Standard,Common,False,$0.09,$0.54
+3,Windfall,,LAW,248,Standard,Common,False,$0.09,$0.27
+1,Windfall,,LAW,750,Hyperspace Foil,Common,True,$0.16,$0.16
+1,Rose Tico,Now It's Worth It,LAW,223,Standard,Rare,False,$1.65,$1.65
+1,Rose Tico,Now It's Worth It,LAW,487,Hyperspace,Rare,False,$3.86,$3.86
+4,Guild Ambush Team,,LAW,239,Standard,Common,False,$0.12,$0.48
+1,Rio Durant,Beckett's Right Hands,LAW,93,Standard,Rare,False,$0.44,$0.44
+5,Scavenging Sandcrawler,,LAW,238,Standard,Common,False,$0.10,$0.50
+1,Qui-Gon Jinn,Influencing Chance,LAW,237,Standard,Rare,False,$3.75,$3.75
+2,Kanan Jarrus,Spectre One,LAW,89,Standard,Uncommon,False,$0.29,$0.58
+1,Kanan Jarrus,Spectre One,LAW,794,Standard Prestige,Uncommon,False,$1.22,$1.22
+1,Bix Caleen,Selling Scrap,LAW,500,Hyperspace,Uncommon,False,$0.28,$0.28
+1,Bix Caleen,Selling Scrap,LAW,236,Standard,Uncommon,False,$0.18,$0.18
+4,Cutthroat Podracer,,LAW,213,Standard,Common,False,$0.12,$0.48
+1,Cutthroat Podracer,,LAW,477,Hyperspace,Common,False,$0.17,$0.17
+1,Cutthroat Podracer,,LAW,715,Hyperspace Foil,Common,True,$0.11,$0.11
+5,Rebel Blockade Runner,,LAW,222,Standard,Common,False,$0.10,$0.50
+1,Blockade Runner,,LOF,166,Standard,Uncommon,False,$0.12,$0.12
+1,Rebel Blockade Runner,,LAW,724,Hyperspace Foil,Common,True,$0.15,$0.15
+2,Lieutenant Gorn,I Deserve Worse,LAW,221,Standard,Rare,False,$1.15,$2.30
+2,Lady Proxima,Where's the Money?,LAW,235,Standard,Uncommon,False,$0.15,$0.30
+1,Two-Faced Troig,,LAW,594,Hyperspace Foil,Rare,True,$3.74,$3.74
+1,Anakin's Podracer,So Wizard!,LAW,219,Standard,Legendary,False,$9.64,$9.64
+1,Anakin's Podracer,So Wizard!,LAW,483,Hyperspace,Legendary,False,$12.17,$12.17
+2,Hold For Questioning,,LAW,217,Standard,Uncommon,False,$0.35,$0.70
+5,Champion's KT9 Podracer,,LAW,232,Standard,Common,False,$0.14,$0.70
+3,Kage Elite,,LAW,234,Standard,Common,False,$0.09,$0.27
+1,Cinta Kaz,Stone Cold and Fearless,LAW,369,Hyperspace,Uncommon,False,$0.42,$0.42
+1,Conveyex Security Captain,,LAW,619,Hyperspace Foil,Rare,True,$1.32,$1.32
+2,Conveyex Security Captain,,LAW,117,Standard,Rare,False,$0.43,$0.86
+2,Veiled Strength,,LAW,128,Standard,Uncommon,False,$0.17,$0.34
+4,Droid Laser Turret,,LAW,118,Standard,Common,False,$0.13,$0.52
+2,Droid Laser Turret,,LAW,620,Hyperspace Foil,Common,True,$0.23,$0.46
+4,Defiant Scrapper,,LAW,106,Standard,Common,False,$0.10,$0.40
+1,Defiant Scrapper,,LAW,370,Hyperspace,Common,False,$0.14,$0.14
+5,Bith Brute,,LAW,49,Standard,Common,False,$0.12,$0.60
+1,Bith Brute,,LAW,313,Hyperspace,Common,False,$0.18,$0.18
+1,Latts Razzi,Deadly Whipmaster,LAW,541,Hyperspace Foil,Rare,True,$15.47,$15.47
+1,Rogue One,At Any Cost,LAW,621,Hyperspace Foil,Rare,True,$0.88,$0.88
+4,Rodian Bondsman,,LAW,116,Standard,Common,False,$0.10,$0.40
+2,Betrayed Trust,,LAW,130,Standard,Uncommon,False,$0.12,$0.24
+3,Lepi Lookout,,LAW,38,Standard,Common,False,$0.13,$0.39
+1,Lepi Lookout,,LAW,540,Hyperspace Foil,Common,True,$0.21,$0.21
+1,Bodhi Rook,Creating a Diversion,LAW,104,Standard,Rare,False,$0.32,$0.32
+5,Alkenzi Patroller,,LAW,114,Standard,Common,False,$0.10,$0.50
+1,Alkenzi Patroller,,LAW,378,Hyperspace,Common,False,$0.17,$0.17
+1,Alkenzi Patroller,,LAW,616,Hyperspace Foil,Common,True,$0.18,$0.18
+1,Rickety Quadjumper,,SHD,57,Standard Foil,Common,True,$0.13,$0.13
+3,Rickety Quadjumper,,SHD,57,Standard,Common,False,$0.04,$0.12
+1,Rickety Quadjumper,,SHD,332,Hyperspace,Common,False,$0.18,$0.18
+1,Rickety Quadjumper,,SHD,332,Hyperspace Foil,Common,True,$0.23,$0.23
+1,Chio Fain,Four-Armed Slicer,LAW,312,Hyperspace,Uncommon,False,$0.82,$0.82
+1,Chio Fain,Four-Armed Slicer,LAW,48,Standard,Uncommon,False,$0.23,$0.23
+2,Adventurer Sniper Rifle,,LAW,126,Standard,Rare,False,$0.30,$0.60
+5,Incapacitate,,LAW,131,Standard,Common,False,$0.13,$0.65
+3,Kill Switch,,LAW,127,Standard,Common,False,$0.12,$0.36
+1,Kill Switch,,LAW,391,Hyperspace,Common,False,$0.20,$0.20
+1,Kill Switch,,LAW,629,Hyperspace Foil,Common,True,$0.19,$0.19
+3,Watchful,,LAW,125,Standard,Common,False,$0.09,$0.27
+2,Boonta Eve Flagbearer,,LAW,112,Standard,Uncommon,False,$0.10,$0.20
+5,Shield Drive Outfitter,,LAW,113,Standard,Common,False,$0.10,$0.50
+1,Shield Drive Outfitter,,LAW,377,Hyperspace,Common,False,$0.13,$0.13
+2,Choke on Aspirations,,LAW,102,Standard,Uncommon,False,$0.14,$0.28
+5,Imperial Door Technician,,LAW,97,Standard,Common,False,$0.14,$0.70
+1,Imperial Door Technician,,LAW,361,Hyperspace,Common,False,$0.22,$0.22
+1,Imperial Door Technician,,LAW,599,Hyperspace Foil,Common,True,$0.22,$0.22
+2,Industrious Team,,LAW,124,Standard,Common,False,$0.10,$0.20
+1,Industrious Team,,LAW,626,Hyperspace Foil,Common,True,$0.13,$0.13
+1,Lawbringer,Shadow Over Lothal,LAW,101,Standard,Legendary,False,$13.83,$13.83
+1,Phoenix Squadron Fighters,,LAW,110,Standard,Common,False,$0.09,$0.09
+3,Phoenix Squadron Fighters,,LAW,374,Hyperspace,Common,False,$0.12,$0.36
+1,Phoenix Squadron Fighters,,LAW,612,Hyperspace Foil,Common,True,$0.16,$0.16
+1,Baze Malbus,Good Luck,LAW,47,Standard,Rare,False,$0.23,$0.23
+1,Aurra Sing,Assassin,LAW,268,Hyperspace,Common,False,$0.16,$0.16
+2,Tantive IV,Carrying Hope,LAW,109,Standard,Uncommon,False,$0.17,$0.34
+4,IGV-55 Listener,,LAW,100,Standard,Common,False,$0.12,$0.48
+1,IGV-55 Listener,,LAW,364,Hyperspace,Common,False,$0.13,$0.13
+1,IGV-55 Listener,,LAW,602,Hyperspace Foil,Common,True,$0.13,$0.13
+4,Lost and Forgotten,,LAW,133,Standard,Common,False,$0.24,$0.96
+2,Shadow Cloaking,,LAW,43,Standard,Uncommon,False,$0.16,$0.32
+1,Shadow Cloaking,,LAW,307,Hyperspace,Uncommon,False,$0.28,$0.28
+1,Lando Calrissian,Eyes Open,LAW,809,Standard Prestige,Special,False,$3.37,$3.37
+4,Syndicate Security,,LAW,123,Standard,Common,False,$0.10,$0.40
+1,Syndicate Security,,LAW,625,Hyperspace Foil,Common,True,$0.09,$0.09
+3,Shielded Hauler,,LAW,122,Standard,Common,False,$0.09,$0.27
+4,Zeb Orellios,Spectre Four,LAW,45,Standard,Uncommon,False,$0.22,$0.88
+3,Canto Bight Security,,LAW,121,Standard,Uncommon,False,$0.17,$0.51
+1,Canto Bight Security,,LAW,385,Hyperspace,Uncommon,False,$0.24,$0.24
+2,Governor's Shuttle,,LAW,99,Standard,Uncommon,False,$0.22,$0.44
+1,Governor's Shuttle,,LAW,601,Hyperspace Foil,Uncommon,True,$0.29,$0.29
+1,Nothing Left to Fear,,LAW,41,Standard,Uncommon,False,$0.23,$0.23
+1,Taramyn Barcona,Eyes Front!,LAW,40,Standard,Uncommon,False,$0.14,$0.14
+2,The Tree Remembers,,LAW,132,Standard,Uncommon,False,$1.31,$2.62
+2,Display Piece,,LAW,103,Standard,Rare,False,$0.22,$0.44
+1,Honnah,OINK! SQUEE!,LAW,50,Standard,Uncommon,False,$0.27,$0.27
+5,Swoop Bike Marauder,,LAW,107,Standard,Common,False,$0.09,$0.45
+1,Swoop Bike Marauder,,LAW,371,Hyperspace,Common,False,$0.12,$0.12
+1,IG-88,Ruthless Bounty Hunter,SOR,12,Standard,Common,False,$0.03,$0.03
+5,Mastery,,LAW,129,Standard,Common,False,$0.16,$0.80
+3,Vigilant Scouts,,LAW,120,Standard,Common,False,$0.09,$0.27
+1,Vigilant Scouts,,LAW,384,Hyperspace,Common,False,$0.14,$0.14
+1,Vigilant Scouts,,LAW,622,Hyperspace Foil,Common,True,$0.16,$0.16
+3,Vandor Range Troopers,,LAW,98,Standard,Common,False,$0.11,$0.33
+3,Vandor Range Troopers,,LAW,362,Hyperspace,Common,False,$0.11,$0.33
+1,Bossk,Deadly Stalker,SOR,182,Standard,Uncommon,False,$0.23,$0.23
+3,Ezra Bridger,Spectre Six,LAW,35,Standard,Uncommon,False,$0.16,$0.48
+2,Cinta Kaz,Stone Cold and Fearless,LAW,105,Standard,Uncommon,False,$0.20,$0.40
+5,Getaway Freighter,,LAW,155,Standard,Common,False,$0.13,$0.65
+1,Getaway Freighter,,LAW,657,Hyperspace Foil,Common,True,$0.17,$0.17
+5,Massassi Group Marines,,LAW,146,Standard,Common,False,$0.12,$0.60
+2,Khetanna,Upon the Dune Sea,LAW,158,Standard,Uncommon,False,$0.12,$0.24
+1,Khetanna,Upon the Dune Sea,LAW,660,Hyperspace Foil,Uncommon,True,$0.23,$0.23
+3,Dengar,Take Your Shot,LAW,53,Standard,Uncommon,False,$0.16,$0.48
+1,Syndicate Spice Runner,,LAW,136,Standard,Uncommon,False,$0.13,$0.13
+1,Bib Fortuna,Die Wanna Wanga?,LAW,134,Standard,Rare,False,$0.34,$0.34
+1,C-3PO,Translation Protocol,LAW,152,Standard,Uncommon,False,$0.19,$0.19
+1,C-3PO,Translation Protocol,LAW,416,Hyperspace,Uncommon,False,$0.27,$0.27
+5,Common Cause,,LAW,167,Standard,Common,False,$0.09,$0.45
+1,Benthic “Two Tubes”,The War Has Just Begun,LAW,57,Standard,Rare,False,$0.52,$0.52
+3,Chopper,Spectre Three,LAW,55,Standard,Uncommon,False,$0.17,$0.51
+6,Follower of the Code,,LAW,153,Standard,Common,False,$0.10,$0.60
+1,Follower of the Code,,LAW,655,Hyperspace Foil,Common,True,$0.17,$0.17
+3,Honor-Bound Partisan,,LAW,58,Standard,Uncommon,False,$0.18,$0.54
+5,Liberated Wookiee,,LAW,143,Standard,Common,False,$0.10,$0.50
+1,Liberated Wookiee,,LAW,407,Hyperspace,Common,False,$0.11,$0.11
+1,Liberated Wookiee,,LAW,645,Hyperspace Foil,Common,True,$0.12,$0.12
+2,Pirate Snub Fighter,,LAW,135,Standard,Common,False,$0.12,$0.24
+1,Pirate Snub Fighter,,LAW,399,Hyperspace,Common,False,$0.22,$0.22
+1,Pirate Snub Fighter,,LAW,637,Hyperspace Foil,Common,True,$0.27,$0.27
+5,Devaronian Doorbuster,,LAW,70,Standard,Common,False,$0.10,$0.50
+1,Devaronian Doorbuster,,LAW,334,Hyperspace,Common,False,$0.15,$0.15
+2,Jyn Erso,Stardust,TWI,143,Standard,Rare,False,$0.25,$0.50
+3,Partisan Infantry,,LAW,154,Standard,Common,False,$0.08,$0.24
+4,Combat Exercise,,LAW,165,Standard,Common,False,$0.10,$0.40
+1,Combat Exercise,,LAW,667,Hyperspace Foil,Common,True,$0.11,$0.11
+3,Profiteering Hunter,,LAW,151,Standard,Common,False,$0.10,$0.30
+3,Profiteering Hunter,,LAW,415,Hyperspace,Common,False,$0.13,$0.39
+2,Scarif Lieutenant,,LAW,142,Standard,Uncommon,False,$0.18,$0.36
+1,Scarif Lieutenant,,LAW,644,Hyperspace Foil,Uncommon,True,$0.23,$0.23
+5,Putting a Team Together,,LAW,166,Standard,Common,False,$0.10,$0.50
+1,Intimidator,Citadel Overwatch,LAW,140,Standard,Legendary,False,$1.23,$1.23
+6,Mercenary Fleet,,LAW,164,Standard,Common,False,$0.11,$0.66
+3,Beach Patrol AT-ACT,,LAW,162,Standard,Common,False,$0.12,$0.36
+2,Beach Patrol AT-ACT,,LAW,664,Hyperspace Foil,Common,True,$0.15,$0.30
+2,Defiant Hammerhead,,LAW,62,Standard,Uncommon,False,$0.16,$0.32
+2,Stockpile,,LAW,171,Standard,Uncommon,False,$0.16,$0.32
+4,4-LOM,Devious,LAW,65,Standard,Uncommon,False,$0.15,$0.60
+4,Undercity Hunting Team,,LAW,138,Standard,Common,False,$0.09,$0.36
+1,Undercity Hunting Team,,LAW,402,Hyperspace,Common,False,$0.13,$0.13
+1,Undercity Hunting Team,,LAW,640,Hyperspace Foil,Common,True,$0.11,$0.11
+2,Admiral Motti,Chain of Command,LAW,139,Standard,Rare,False,$0.23,$0.46
+4,Partisan U-Wing,,LAW,161,Standard,Common,False,$0.08,$0.32
+2,Smuggler's YT-2400,,LAW,148,Standard,Uncommon,False,$0.17,$0.34
+2,Patient Hunter,,LAW,73,Standard,Uncommon,False,$0.19,$0.38
+1,Patient Hunter,,LAW,337,Hyperspace,Uncommon,False,$0.17,$0.17
+1,Max Rebo,Encore!,LAW,72,Standard,Legendary,False,$6.27,$6.27
+4,Jaunty Light Freighter,,LAW,147,Standard,Common,False,$0.11,$0.44
+1,Jaunty Light Freighter,,LAW,411,Hyperspace,Common,False,$0.09,$0.09
+1,Jaunty Light Freighter,,LAW,649,Hyperspace Foil,Common,True,$0.09,$0.09
+5,Expendable Mercenary,,LAW,159,Standard,Common,False,$0.15,$0.75
+1,Expendable Mercenary,,LAW,423,Hyperspace,Common,False,$0.19,$0.19
+4,Payroll Heist,,LAW,169,Standard,Uncommon,False,$0.13,$0.52
+1,Payroll Heist,,LAW,433,Hyperspace,Uncommon,False,$0.22,$0.22
+4,Haymaker,,LAW,168,Standard,Common,False,$0.14,$0.56
+6,Hidden Hunters,,LAW,160,Standard,Common,False,$0.08,$0.48
+3,Quarren Contractor,,LAW,60,Standard,Common,False,$0.12,$0.36
+1,Quarren Contractor,,LAW,324,Hyperspace,Common,False,$0.15,$0.15
+5,Ruthless Duo,,LAW,137,Standard,Common,False,$0.11,$0.55
+2,Zuckuss,Dangerous,LAW,64,Standard,Rare,False,$0.72,$1.44
+2,The Max Rebo Band,Jatz-Wailers,LAW,71,Standard,Uncommon,False,$0.32,$0.64
+2,Target Tagger,,LAW,157,Standard,Common,False,$0.11,$0.22
+2,Hunter For Hire,,LAW,156,Standard,Uncommon,False,$0.13,$0.26
+1,Hunter For Hire,,LAW,420,Hyperspace,Uncommon,False,$0.14,$0.14
+2,Targeted For Removal,,LAW,141,Standard,Uncommon,False,$0.12,$0.24
+1,Fire Across the Galaxy,,LAW,520,Hyperspace,Rare,False,$0.52,$0.52
+2,Circuit Challenger,,LAW,519,Hyperspace,Common,False,$0.11,$0.22
+5,Stalwart Fleet Trooper,,LAW,254,Standard,Common,False,$0.10,$0.50
+1,Stalwart Fleet Trooper,,LAW,518,Hyperspace,Common,False,$0.16,$0.16
+2,Alliance X-Wing,,LAW,253,Standard,Common,False,$0.10,$0.20
+1,Alliance X-Wing,,SOR,496,Hyperspace,Common,False,$0.20,$0.20
+1,Alliance X-Wing,,SOR,237,Standard,Common,False,$0.06,$0.06
+2,Fett's Firespray,In Pursuit,LAW,252,Standard,Rare,False,$0.26,$0.52
+3,Night Wind Assailants,,LAW,251,Standard,Common,False,$0.10,$0.30
+2,Night Wind Assailants,,LAW,515,Hyperspace,Common,False,$0.16,$0.32
+3,Callous Bounty Hunter,,LAW,250,Standard,Common,False,$0.07,$0.21
+1,Callous Bounty Hunter,,LAW,514,Hyperspace,Common,False,$0.14,$0.14
+1,Callous Bounty Hunter,,LAW,752,Hyperspace Foil,Common,True,$0.12,$0.12
+4,Black Sun Cabalist,,LAW,249,Standard,Common,False,$0.10,$0.40
+4,Kessel Hulk,,LAW,263,Standard,Common,False,$0.12,$0.48
+1,Kessel Hulk,,LAW,765,Hyperspace Foil,Common,True,$0.10,$0.10
+5,Bank Job Fugitives,,LAW,262,Standard,Common,False,$0.11,$0.55
+1,Bank Job Fugitives,,LAW,764,Hyperspace Foil,Common,True,$0.09,$0.09
+1,Street Gang Recruiter,,LAW,261,Standard,Common,False,$0.10,$0.10
+2,Street Gang Recruiter,,SHD,260,Standard,Common,False,$0.04,$0.08
+4,Seasoned Tracker,,LAW,260,Standard,Common,False,$0.10,$0.40
+1,Seasoned Tracker,,LAW,762,Hyperspace Foil,Common,True,$0.10,$0.10
+5,Cartel Heavy Fighter,,LAW,259,Standard,Common,False,$0.09,$0.45
+3,Criminal Contact,,LAW,258,Standard,Common,False,$0.08,$0.24
+2,Criminal Contact,,LAW,760,Hyperspace Foil,Common,True,$0.11,$0.22
+4,From a Certain Point of View,,LAW,264,Standard,Common,False,$0.11,$0.44
+1,From a Certain Point of View,,LAW,766,Hyperspace Foil,Common,True,$0.20,$0.20
+4,Hidden Hand Supplier,,LAW,257,Standard,Common,False,$0.07,$0.28
+1,Hidden Hand Supplier,,LAW,521,Hyperspace,Common,False,$0.09,$0.09
+1,Mandalorian Super Commandos,,ASH,742,Hyperspace Foil,Common,True,$0.17,$0.17
+1,Emperor's Messenger,,ASH,453,Hyperspace,Common,False,$0.14,$0.14
+1,Foundling Rescue,,ASH,594,Hyperspace Foil,Common,True,$0.11,$0.11
+1,Protectorate Fighter,,ASH,388,Hyperspace,Common,False,$0.19,$0.19
+1,Look the Other Way,,SHD,227,Standard,Common,False,$0.06,$0.06
+3,Heroic Purrgil,,ASH,709,Hyperspace Foil,Common,True,$0.12,$0.36
+1,Turning the Tide,,ASH,640,Hyperspace Foil,Common,True,$0.11,$0.11
+1,Get Lost,,ASH,331,Hyperspace,Uncommon,False,$0.27,$0.27
+1,Lang,Arrogant Mercenary,ASH,123,Standard,Rare,False,$0.23,$0.23
+1,Jabba the Hutt,Eminence of Tatooine,ASH,42,Standard,Rare,False,$0.29,$0.29
+1,Remnant Interceptor,,ASH,359,Hyperspace,Common,False,$0.20,$0.20
+1,Yellow Aces Bomber,,ASH,253,Standard,Uncommon,False,$0.26,$0.26
+1,Ryder Azadi,Restored Governor,ASH,77,Standard,Rare,False,$2.02,$2.02
+1,Take Action,,TS26,71,Standard,Common,False,$0.21,$0.21
+1,Bo-Katan's Gauntlet,Reinforce from Above,ASH,796,Standard Prestige,Rare,False,$2.66,$2.66
+2,Green Leader,Crynyd's Sacrifice,ASH,153,Standard,Rare,False,$2.60,$5.20
+1,Whistling Birds,,ASH,447,Hyperspace,Legendary,False,$4.66,$4.66
+1,Pyke Sentinel,,SHD,29,Standard,Common,False,$0.17,$0.17
+1,The Darksaber,,SHD,126,Standard,Legendary,False,$5.33,$5.33
+1,Dathomiri Magicks,,ASH,368,Hyperspace,Rare,False,$0.41,$0.41
+1,B-Wing Rearguard,,ASH,342,Hyperspace,Common,False,$0.20,$0.20
+1,Mayor's Majordomo,No Problem Groveling,ASH,481,Hyperspace,Uncommon,False,$0.19,$0.19
+1,Faith in the Empire,,ASH,764,Hyperspace Foil,Common,True,$0.11,$0.11
+1,One Must Destroy to Create,,ASH,749,Hyperspace Foil,Rare,True,$2.15,$2.15
+1,Stolen Eta Shuttle,,ASH,389,Hyperspace,Uncommon,False,$0.62,$0.62
+1,Mos Espa Watermonger,,ASH,524,Hyperspace,Common,False,$0.10,$0.10
+1,Ant Droid,,ASH,380,Hyperspace,Common,False,$0.18,$0.18
+1,Desert Sharpshooter,,ASH,434,Hyperspace,Common,False,$0.10,$0.10
+1,Covert Believers,,ASH,344,Hyperspace,Common,False,$0.13,$0.13
+1,Hera Syndulla,Renegade General,ASH,295,Hyperspace,Rare,False,$2.02,$2.02
+1,Blade Three,Bane of the Devastator,ASH,825,Standard Prestige,Uncommon,False,$0.87,$0.87
+1,Reinforcing Light Cruiser,,ASH,553,Hyperspace Foil,Common,True,$0.13,$0.13
+1,StarFortress Heavy Bomber,,ASH,676,Hyperspace Foil,Common,True,$0.13,$0.13
+1,Death Trooper,,SEC,294,Hyperspace,Common,False,$0.13,$0.13
+1,Flarestar Attack Shuttle,,ASH,669,Hyperspace Foil,Common,True,$0.15,$0.15
+1,Anakin Skywalker,Secret Husband,SEC,465,Hyperspace,Special,False,$1.52,$1.52
+1,The Conflict Within,,ASH,352,Hyperspace,Uncommon,False,$0.34,$0.34
+1,A New Order,,ASH,528,Hyperspace,Common,False,$0.12,$0.12
+1,Unsanctioned Patrol,,ASH,486,Hyperspace,Common,False,$0.23,$0.23
+1,Ant Droid,,ASH,618,Hyperspace Foil,Common,True,$0.22,$0.22
+1,Galvanized Leap,,ASH,690,Hyperspace Foil,Common,True,$0.18,$0.18
+1,Covert Veteran,,ASH,751,Hyperspace Foil,Common,True,$0.16,$0.16
+1,The Darksaber,,SHD,395,Hyperspace,Legendary,False,$9.52,$9.52
+1,Blade Three,Bane of the Devastator,ASH,872,Foil Prestige,Uncommon,True,$4.51,$4.51
+1,Clone of the Zillo Beast,Emperor's Experiment,HMW,824,Standard Prestige,Rare,False,$5.60,$5.60
+4,Wrecker,Wrecking the Empire,HMW,263,Standard,Uncommon,False,$0.36,$1.44
+7,Mylaya Rider,,HMW,262,Standard,Common,False,N/A,N/A
+1,Mylaya Rider,,HMW,772,Hyperspace Foil,Common,True,N/A,N/A
+6,Ben Kenobi,Don't Be Afraid,HMW,261,Standard,Uncommon,False,$0.36,$2.16
+1,Ben Kenobi,Don't Be Afraid,HMW,533,Hyperspace,Uncommon,False,$0.59,$0.59
+12,Pack Guardian,,HMW,259,Standard,Common,False,N/A,N/A
+3,Pack Guardian,,HMW,531,Hyperspace,Common,False,N/A,N/A
+8,Ewok Archers,,HMW,257,Standard,Common,False,$0.18,$1.44
+2,Ewok Archers,,HMW,529,Hyperspace,Common,False,N/A,N/A
+3,Ewok Archers,,HMW,767,Hyperspace Foil,Common,True,$0.24,$0.72
+10,Ryloth Revolutionary Rider,,HMW,258,Standard,Common,False,N/A,N/A
+2,Ryloth Revolutionary Rider,,HMW,530,Hyperspace,Common,False,N/A,N/A
+1,Ryloth Revolutionary Rider,,HMW,768,Hyperspace Foil,Common,True,N/A,N/A
+7,Heroic Bravery,,HMW,264,Standard,Common,False,N/A,N/A
+3,Heroic Bravery,,HMW,536,Hyperspace,Common,False,N/A,N/A
+2,Heroic Bravery,,HMW,774,Hyperspace Foil,Common,True,N/A,N/A
+10,Renew,,HMW,267,Standard,Common,False,N/A,N/A
+1,Renew,,HMW,539,Hyperspace,Common,False,N/A,N/A
+3,Renew,,HMW,777,Hyperspace Foil,Common,True,N/A,N/A
+10,Jedi Interceptor,,HMW,256,Standard,Common,False,$0.23,$2.30
+1,Jedi Interceptor,,HMW,528,Hyperspace,Common,False,N/A,N/A
+6,Familiar Strategem,,HMW,266,Standard,Common,False,$0.28,$1.68
+1,Familiar Strategem,,HMW,538,Hyperspace,Common,False,N/A,N/A
+1,Familiar Strategem,,HMW,776,Hyperspace Foil,Common,True,N/A,N/A
+1,Captain Tarpals,Grand Army Captain,HMW,254,Standard,Uncommon,False,$0.37,$0.37
+1,Captain Tarpals,Grand Army Captain,HMW,526,Hyperspace,Uncommon,False,$0.51,$0.51
+1,Captain Tarpals,Grand Army Captain,HMW,764,Hyperspace Foil,Uncommon,True,$0.85,$0.85
+8,Blockade Ship,,HMW,251,Standard,Uncommon,False,N/A,N/A
+1,Blockade Ship,,HMW,523,Hyperspace,Uncommon,False,$0.59,$0.59
+7,Imperial Cavalry,,HMW,250,Standard,Common,False,N/A,N/A
+3,Imperial Cavalry,,HMW,522,Hyperspace,Common,False,$0.27,$0.81
+1,Imperial Cavalry,,HMW,760,Hyperspace Foil,Common,True,N/A,N/A
+7,Frenzied Tri-Fighters,,HMW,249,Standard,Common,False,N/A,N/A
+1,Frenzied Tri-Fighters,,HMW,521,Hyperspace,Common,False,N/A,N/A
+1,Frenzied Tri-Fighters,,HMW,759,Hyperspace Foil,Common,True,N/A,N/A
+8,Pyke Sarisa,,HMW,246,Standard,Common,False,N/A,N/A
+2,Pyke Sarisa,,HMW,518,Hyperspace,Common,False,N/A,N/A
+1,Pyke Sarisa,,HMW,756,Hyperspace Foil,Common,True,N/A,N/A
+10,Surveillance Cruiser,,HMW,247,Standard,Common,False,N/A,N/A
+2,Surveillance Cruiser,,HMW,519,Hyperspace,Common,False,$0.44,$0.88
+11,Separatist Harbinger,,HMW,244,Standard,Common,False,N/A,N/A
+1,Separatist Harbinger,,HMW,516,Hyperspace,Common,False,$0.38,$0.38
+1,Separatist Harbinger,,HMW,754,Hyperspace Foil,Common,True,N/A,N/A
+11,Trandoshan Collaborator,,HMW,245,Standard,Common,False,$0.19,$2.09
+3,Trandoshan Collaborator,,HMW,517,Hyperspace,Common,False,N/A,N/A
+3,Trandoshan Collaborator,,HMW,755,Hyperspace Foil,Common,True,N/A,N/A
+4,Forced Pacification,,HMW,253,Standard,Uncommon,False,N/A,N/A
+1,Forced Pacification,,HMW,763,Hyperspace Foil,Uncommon,True,N/A,N/A
+3,Sun Fac,Poggle's Second,HMW,243,Standard,Uncommon,False,N/A,N/A
+2,Sun Fac,Poggle's Second,HMW,515,Hyperspace,Uncommon,False,N/A,N/A
+1,Sun Fac,Poggle's Second,HMW,753,Hyperspace Foil,Uncommon,True,$0.25,$0.25
+11,Villainous Ambition,,HMW,252,Standard,Common,False,$0.22,$2.42
+1,Galactic Ambition,,SOR,235,Standard,Rare,False,$0.16,$0.16
+9,Occupation Officer,,HMW,242,Standard,Common,False,N/A,N/A
+1,Occupation Officer,,HMW,752,Hyperspace Foil,Common,True,N/A,N/A
+6,Growth,,HMW,272,Standard,Common,False,$0.22,$1.32
+1,Growth,,HMW,544,Hyperspace,Common,False,N/A,N/A
+4,Wild Space Wanderer,,HMW,270,Standard,Uncommon,False,$0.45,$1.80
+11,Landing Pad,,HMW,271,Standard,Common,False,N/A,N/A
+3,Landing Pad,,HMW,543,Hyperspace,Common,False,N/A,N/A
+1,Landing Pad,,HMW,781,Hyperspace Foil,Common,True,N/A,N/A
+7,Friendly Eopie,,HMW,269,Standard,Common,False,N/A,N/A
+1,Friendly Eopie,,HMW,541,Hyperspace,Common,False,N/A,N/A
+1,Friendly Eopie,,HMW,779,Hyperspace Foil,Common,True,N/A,N/A
+10,Offworld Jawa,,HMW,268,Standard,Common,False,N/A,N/A
+1,Offworld Jawa,,HMW,540,Hyperspace,Common,False,N/A,N/A
+2,Offworld Jawa,,HMW,778,Hyperspace Foil,Common,True,N/A,N/A
+6,Log Trap,,HMW,149,Standard,Uncommon,False,$0.41,$2.46
+3,Nute Gunray,Perfectly Legal,HMW,105,Standard,Uncommon,False,N/A,N/A
+1,Nute Gunray,Perfectly Legal,HMW,615,Hyperspace Foil,Uncommon,True,$0.80,$0.80
+11,Ewok Brigade,,HMW,116,Standard,Common,False,$0.20,$2.20
+1,Ewok Brigade,,HMW,388,Hyperspace,Common,False,N/A,N/A
+4,Logray,Bright Tree Shaman,HMW,45,Standard,Uncommon,False,$0.41,$1.64
+1,Logray,Bright Tree Shaman,HMW,317,Hyperspace,Uncommon,False,$0.60,$0.60
+8,Wroshyr Rebel,,HMW,133,Standard,Common,False,N/A,N/A
+1,Wroshyr Rebel,,HMW,405,Hyperspace,Common,False,N/A,N/A
+2,Wroshyr Rebel,,HMW,643,Hyperspace Foil,Common,True,N/A,N/A
+7,Soaring Can-Cell,,HMW,131,Standard,Common,False,$0.20,$1.40
+2,Soaring Can-Cell,,HMW,403,Hyperspace,Common,False,N/A,N/A
+2,Soaring Can-Cell,,HMW,641,Hyperspace Foil,Common,True,$0.35,$0.70
+6,Verdant Fortress,,HMW,126,Standard,Uncommon,False,$0.42,$2.52
+1,Verdant Fortress,,HMW,398,Hyperspace,Uncommon,False,$0.42,$0.42
+4,Military Academy,,HMW,112,Standard,Uncommon,False,$0.40,$1.60
+1,Military Academy,,HMW,622,Hyperspace Foil,Uncommon,True,$2.55,$2.55
+6,Leia Organa,These Are My Friends,HMW,115,Standard,Uncommon,False,$0.39,$2.34
+9,Disposable B1,,HMW,103,Standard,Common,False,$0.25,$2.25
+3,Disposable B1,,HMW,375,Hyperspace,Common,False,$0.48,$1.44
+6,Child of Dathomir,,HMW,129,Standard,Common,False,N/A,N/A
+3,Child of Dathomir,,HMW,401,Hyperspace,Common,False,N/A,N/A
+1,Child of Dathomir,,HMW,639,Hyperspace Foil,Common,True,N/A,N/A
+6,Tireless Magnaguard,,HMW,109,Standard,Uncommon,False,$0.48,$2.88
+1,Tireless Magnaguard,,HMW,381,Hyperspace,Uncommon,False,$0.55,$0.55
+4,Stormtrooper Patrol,,HMW,107,Standard,Uncommon,False,$0.34,$1.36
+2,Stormtrooper Patrol,,HMW,379,Hyperspace,Uncommon,False,$0.35,$0.70
+7,V-19 Skirmisher,,HMW,137,Standard,Common,False,N/A,N/A
+1,V-19 Skirmisher,,HMW,647,Hyperspace Foil,Common,True,N/A,N/A
+13,Migrate,,HMW,150,Standard,Common,False,N/A,N/A
+1,Migrate,,HMW,422,Hyperspace,Common,False,N/A,N/A
+1,Migrate,,HMW,660,Hyperspace Foil,Common,True,N/A,N/A
+4,Arena Reek,Lumbering Beast,TS26,44,Standard,Uncommon,False,$0.44,$1.76
+7,Lifetree Caravan,,HMW,136,Standard,Common,False,$0.23,$1.61
+1,Lifetree Caravan,,HMW,408,Hyperspace,Common,False,$0.36,$0.36
+9,Tibidee Mate,,HMW,132,Standard,Common,False,$0.23,$2.07
+2,Tibidee Mate,,HMW,642,Hyperspace Foil,Common,True,N/A,N/A
+7,Local Support,,HMW,148,Standard,Uncommon,False,$0.42,$2.94
+2,Local Support,,HMW,420,Hyperspace,Uncommon,False,$0.45,$0.90
+1,Local Support,,HMW,658,Hyperspace Foil,Uncommon,True,$0.23,$0.23
+10,Secessionist Convert,,HMW,106,Standard,Common,False,N/A,N/A
+2,Secessionist Convert,,HMW,378,Hyperspace,Common,False,N/A,N/A
+2,Secessionist Convert,,HMW,616,Hyperspace Foil,Common,True,$0.19,$0.38
+1,Assault Frigate,,HMW,650,Hyperspace Foil,Common,True,N/A,N/A
+7,Wookiee Rangers,,HMW,142,Standard,Common,False,$0.23,$1.61
+3,Rex,Outserved His Purpose,HMW,141,Standard,Uncommon,False,N/A,N/A
+12,Overgrowth,,HMW,151,Standard,Common,False,$0.24,$2.88
+2,Overgrowth,,HMW,423,Hyperspace,Common,False,$0.60,$1.20
+1,Overgrowth,,HMW,661,Hyperspace Foil,Common,True,$0.31,$0.31
+12,Auzituck Avenger,,HMW,120,Standard,Common,False,$0.21,$2.52
+3,Auzituck Avenger,,HMW,392,Hyperspace,Common,False,N/A,N/A
+4,Eravana,Hauling Rathtars,HMW,47,Standard,Uncommon,False,$0.37,$1.48
+1,Eravana,Hauling Rathtars,HMW,319,Hyperspace,Uncommon,False,N/A,N/A
+1,Eravana,Hauling Rathtars,HMW,557,Hyperspace Foil,Uncommon,True,N/A,N/A
+10,Ryyk Blademaster,,HMW,118,Standard,Common,False,$0.23,$2.30
+1,Ryyk Blademaster,,HMW,390,Hyperspace,Common,False,N/A,N/A
+1,Ryyk Blademaster,,HMW,628,Hyperspace Foil,Common,True,$0.10,$0.10
+13,Flock of Mynocks,,HMW,139,Standard,Common,False,N/A,N/A
+4,Flock of Mynocks,,HMW,649,Hyperspace Foil,Common,True,N/A,N/A
+12,Outer Rim Garrison,,HMW,146,Standard,Common,False,N/A,N/A
+4,The Marauder,A New Home,HMW,125,Standard,Uncommon,False,$0.42,$1.68
+8,Howler Pack,,HMW,144,Standard,Common,False,N/A,N/A
+2,Howler Pack,,HMW,416,Hyperspace,Common,False,N/A,N/A
+1,Howler Pack,,HMW,654,Hyperspace Foil,Common,True,N/A,N/A
+7,Boga,Loyal Varactyl,HMW,122,Standard,Uncommon,False,$0.39,$2.73
+7,Invasion Lander,,HMW,111,Standard,Common,False,$0.22,$1.54
+2,Invasion Lander,,HMW,383,Hyperspace,Common,False,$0.17,$0.34
+1,Invasion Lander,,HMW,621,Hyperspace Foil,Common,True,N/A,N/A
+9,Banking Clan Warship,,HMW,143,Standard,Common,False,N/A,N/A
+2,Banking Clan Warship,,HMW,415,Hyperspace,Common,False,N/A,N/A
+8,Assault Frigate,,HMW,140,Standard,Common,False,N/A,N/A
+3,Assault Frigate,,HMW,412,Hyperspace,Common,False,$0.48,$1.44
+1,Corona Squadron X-Wing,,HMW,719,Hyperspace Foil,Common,True,N/A,N/A
+10,Tusken Raider,,HMW,224,Standard,Common,False,$0.25,$2.50
+2,Tusken Raider,,HMW,496,Hyperspace,Common,False,N/A,N/A
+6,Sandcrawler Sales Team,,HMW,222,Standard,Common,False,N/A,N/A
+2,Sandcrawler Sales Team,,HMW,494,Hyperspace,Common,False,N/A,N/A
+1,Sandcrawler Sales Team,,HMW,732,Hyperspace Foil,Common,True,N/A,N/A
+6,Don't Touch Anything,,HMW,217,Standard,Uncommon,False,N/A,N/A
+1,Don't Touch Anything,,HMW,489,Hyperspace,Uncommon,False,$0.22,$0.22
+7,Pounce,,LOF,224,Standard,Common,False,$0.07,$0.49
+1,Pounce,,HMW,511,Hyperspace,Common,False,N/A,N/A
+6,Sol,Compassionate Guardian,HMW,210,Standard,Uncommon,False,$0.40,$2.40
+1,Sol,Compassionate Guardian,HMW,482,Hyperspace,Uncommon,False,$0.58,$0.58
+5,Treacherous Pyke,,HMW,198,Standard,Uncommon,False,$0.38,$1.90
+2,Treacherous Pyke,,HMW,470,Hyperspace,Uncommon,False,$0.85,$1.70
+4,Teeka,You're in Luck,HMW,221,Standard,Uncommon,False,$0.35,$1.40
+13,Clever Trapper,,HMW,220,Standard,Common,False,N/A,N/A
+2,Clever Trapper,,HMW,492,Hyperspace,Common,False,$0.22,$0.44
+1,Clever Trapper,,HMW,730,Hyperspace Foil,Common,True,N/A,N/A
+11,Easy Prey,,HMW,237,Standard,Common,False,N/A,N/A
+1,Easy Prey,,HMW,747,Hyperspace Foil,Common,True,N/A,N/A
+10,Gaderffii Stick,,HMW,235,Standard,Common,False,$0.27,$2.70
+1,Gaderffii Stick,,HMW,507,Hyperspace,Common,False,$0.41,$0.41
+6,Intelligence Agency,,HMW,205,Standard,Uncommon,False,$0.32,$1.92
+1,Intelligence Agency,,HMW,477,Hyperspace,Uncommon,False,$0.39,$0.39
+7,Maim,,HMW,207,Standard,Common,False,N/A,N/A
+5,Insurgent Camp,,HMW,216,Standard,Uncommon,False,$0.42,$2.10
+1,Insurgent Camp,,HMW,488,Hyperspace,Uncommon,False,$0.59,$0.59
+2,Lakeside Shaaks,,HMW,738,Hyperspace Foil,Common,True,N/A,N/A
+7,Sandtrooper Squad,,HMW,201,Standard,Common,False,N/A,N/A
+1,I Have the High Ground,,TWI,72,Standard,Rare,False,$0.21,$0.21
+2,Sandtrooper Squad,,HMW,473,Hyperspace,Common,False,$0.24,$0.48
+1,Sandtrooper Squad,,HMW,711,Hyperspace Foil,Common,True,$0.21,$0.21
+4,Booma Ball,,HMW,236,Standard,Common,False,$0.27,$1.08
+1,Booma Ball,,HMW,508,Hyperspace,Common,False,N/A,N/A
+9,Tribubble Bongo Sub,,HMW,213,Standard,Common,False,$0.24,$2.16
+9,Geonosian Picador,,HMW,199,Standard,Common,False,N/A,N/A
+1,Geonosian Picador,,HMW,709,Hyperspace Foil,Common,True,$0.16,$0.16
+10,Gungan Battle Wagon,,HMW,226,Standard,Common,False,$0.20,$2.00
+1,Gungan Battle Wagon,,HMW,498,Hyperspace,Common,False,N/A,N/A
+6,Horizon Chaser,,HMW,227,Standard,Common,False,N/A,N/A
+2,Horizon Chaser,,HMW,499,Hyperspace,Common,False,$0.44,$0.88
+1,Horizon Chaser,,HMW,737,Hyperspace Foil,Common,True,$0.19,$0.19
+5,Tech,I Thought It Was Obvious,HMW,211,Standard,Uncommon,False,$0.40,$2.00
+10,Sandstorm,,HMW,240,Standard,Common,False,$0.28,$2.80
+1,Sandstorm,,HMW,512,Hyperspace,Common,False,$0.27,$0.27
+1,Sandstorm,,HMW,750,Hyperspace Foil,Common,True,$0.17,$0.17
+9,Corona Squadron X-Wing,,HMW,209,Standard,Common,False,N/A,N/A
+6,Awakened Exogorth,,HMW,233,Standard,Uncommon,False,$0.39,$2.34
+1,Awakened Exogorth,,HMW,743,Hyperspace Foil,Uncommon,True,N/A,N/A
+6,Victor Squadron,In Attack Formation,HMW,203,Standard,Uncommon,False,$0.38,$2.28
+10,Dragonboat Freighter,,HMW,231,Standard,Common,False,N/A,N/A
+2,Dragonboat Freighter,,HMW,503,Hyperspace,Common,False,N/A,N/A
+1,Dragonboat Freighter,,HMW,741,Hyperspace Foil,Common,True,N/A,N/A
+4,Howl,,HMW,241,Standard,Uncommon,False,$0.37,$1.48
+6,Mon Cal Cruiser,,HMW,232,Standard,Uncommon,False,N/A,N/A
+9,Raiding Party,,HMW,230,Standard,Common,False,$0.27,$2.43
+3,Raiding Party,,HMW,502,Hyperspace,Common,False,$0.24,$0.72
+3,Raiding Party,,HMW,740,Hyperspace Foil,Common,True,$0.27,$0.81
+7,Lurking Wampa,,HMW,229,Standard,Common,False,N/A,N/A
+3,Lurking Wampa,,HMW,501,Hyperspace,Common,False,N/A,N/A
+5,Boss Lyonie,Hypnotized,HMW,57,Standard,Uncommon,False,$0.34,$1.70
+1,Boss Lyonie,Hypnotized,HMW,329,Hyperspace,Uncommon,False,$0.65,$0.65
+4,Inferno Squad,We Can Grieve Later,HMW,202,Standard,Uncommon,False,$0.37,$1.48
+1,Inferno Squad,We Can Grieve Later,HMW,474,Hyperspace,Uncommon,False,$0.61,$0.61
+2,Inferno Squad,We Can Grieve Later,HMW,712,Hyperspace Foil,Uncommon,True,$1.61,$3.22
+10,New Tactics,,HMW,218,Standard,Common,False,N/A,N/A
+2,New Tactics,,HMW,490,Hyperspace,Common,False,$0.26,$0.52
+1,New Tactics,,HMW,728,Hyperspace Foil,Common,True,N/A,N/A
+11,Lakeside Shaaks,,HMW,228,Standard,Common,False,N/A,N/A
+1,Lakeside Shaaks,,HMW,500,Hyperspace,Common,False,N/A,N/A
+9,Gunga City Guard,,HMW,84,Standard,Common,False,$0.20,$1.80
+2,Gunga City Guard,,HMW,356,Hyperspace,Common,False,N/A,N/A
+9,Dire Prowess,,HMW,97,Standard,Common,False,N/A,N/A
+2,Dire Prowess,,HMW,369,Hyperspace,Common,False,N/A,N/A
+1,Dire Prowess,,HMW,607,Hyperspace Foil,Common,True,$0.14,$0.14
+8,Peppi Bow,Shaak Herder,HMW,73,Standard,Uncommon,False,$0.41,$3.28
+1,Peppi Bow,Shaak Herder,HMW,345,Hyperspace,Uncommon,False,$0.38,$0.38
+10,Remote Scout,,HMW,85,Standard,Common,False,$0.27,$2.70
+1,Remote Scout,,HMW,357,Hyperspace,Common,False,$0.33,$0.33
+1,Remote Scout,,HMW,595,Hyperspace Foil,Common,True,$0.18,$0.18
+9,Trust Yourself,,HMW,101,Standard,Common,False,N/A,N/A
+9,Torrent,,HMW,100,Standard,Common,False,$0.23,$2.07
+1,Torrent,,HMW,372,Hyperspace,Common,False,$0.29,$0.29
+1,Torrent,,HMW,610,Hyperspace Foil,Common,True,$0.41,$0.41
+6,Resonate,,HMW,98,Standard,Uncommon,False,N/A,N/A
+5,Carbonite Chamber,,HMW,95,Standard,Uncommon,False,N/A,N/A
+1,Carbonite Chamber,,HMW,367,Hyperspace,Uncommon,False,$0.32,$0.32
+8,Venomous Wyyyshokk,,HMW,87,Standard,Common,False,$0.22,$1.76
+3,Batcher,Loyal Hound,HMW,83,Standard,Uncommon,False,$0.37,$1.11
+3,Alliance Shield Generator,,HMW,81,Standard,Uncommon,False,$0.41,$1.23
+2,Trust Yourself,,HMW,373,Hyperspace,Common,False,$0.22,$0.44
+1,Trust Yourself,,HMW,611,Hyperspace Foil,Common,True,N/A,N/A
+11,Clone X Assassin,,HMW,59,Standard,Common,False,N/A,N/A
+2,Clone X Assassin,,HMW,331,Hyperspace,Common,False,$0.56,$1.12
+8,Devotion,,SOR,70,Standard,Uncommon,False,$0.15,$1.20
+1,Devotion,,SOR,335,Hyperspace,Uncommon,False,$0.64,$0.64
+4,Devotion,,HMW,606,Hyperspace Foil,Common,True,N/A,N/A
+8,Grand Army Marine,,HMW,72,Standard,Common,False,N/A,N/A
+1,Grand Army Marine,,HMW,344,Hyperspace,Common,False,N/A,N/A
+1,Grand Army Marine,,HMW,582,Hyperspace Foil,Common,True,N/A,N/A
+3,Dragon's Might,,HMW,612,Hyperspace Foil,Common,True,$0.30,$0.90
+3,Ravage,,HMW,71,Standard,Uncommon,False,$0.37,$1.11
+9,Territorial Mudhorn,,HMW,89,Standard,Common,False,$0.22,$1.98
+4,Talzin's Shuttle,Mysterious Arrival,HMW,40,Standard,Uncommon,False,$0.37,$1.48
+5,Scorch,Imperial Commando,HMW,64,Standard,Uncommon,False,$0.35,$1.75
+1,Scorch,Imperial Commando,HMW,336,Hyperspace,Uncommon,False,$0.72,$0.72
+1,Scorch,Imperial Commando,HMW,574,Hyperspace Foil,Uncommon,True,$0.86,$0.86
+4,Yanna,Sanctuary Elder,HMW,76,Standard,Uncommon,False,N/A,N/A
+6,Bestial Bond,,HMW,38,Standard,Uncommon,False,$0.31,$1.86
+1,Bestial Bond,,HMW,548,Hyperspace Foil,Uncommon,True,$0.35,$0.35
+5,Dark Sanctum,,HMW,70,Standard,Uncommon,False,N/A,N/A
+1,Dark Sanctum,,HMW,342,Hyperspace,Uncommon,False,N/A,N/A
+9,Wookiee Protector,,HMW,75,Standard,Common,False,$0.14,$1.26
+1,Wookiee Protector,,HMW,347,Hyperspace,Common,False,$0.33,$0.33
+1,Wookiee Protector,,HMW,585,Hyperspace Foil,Common,True,$0.23,$0.23
+8,Rho Medical Shuttle,,HMW,63,Standard,Common,False,N/A,N/A
+2,Rho Medical Shuttle,,HMW,573,Hyperspace Foil,Common,True,$0.35,$0.70
+8,N-1 Patroller,,HMW,86,Standard,Common,False,$0.23,$1.84
+2,N-1 Patroller,,HMW,596,Hyperspace Foil,Common,True,N/A,N/A
+11,Coastal Catamarans,,HMW,93,Standard,Common,False,N/A,N/A
+2,Coastal Catamarans,,HMW,365,Hyperspace,Common,False,N/A,N/A
+8,Imperial Venator,,HMW,69,Standard,Common,False,N/A,N/A
+2,Imperial Venator,,HMW,341,Hyperspace,Common,False,$0.48,$0.96
+9,Fambaa Shield Team,,HMW,80,Standard,Common,False,N/A,N/A
+2,Fambaa Shield Team,,HMW,352,Hyperspace,Common,False,N/A,N/A
+1,Fambaa Shield Team,,HMW,590,Hyperspace Foil,Common,True,N/A,N/A
+5,Imperial Commandos,,HMW,68,Standard,Uncommon,False,N/A,N/A
+1,Imperial Commandos,,HMW,578,Hyperspace Foil,Uncommon,True,$0.23,$0.23
+5,Radiant VII,Negotiating for Naboo,HMW,79,Standard,Uncommon,False,N/A,N/A
+10,Starlit Purrgil,,HMW,92,Standard,Common,False,$0.24,$2.40
+1,Starlit Purrgil,,HMW,602,Hyperspace Foil,Common,True,N/A,N/A
+6,Opee Sea Killer,,HMW,90,Standard,Common,False,$0.22,$1.32
+1,Opee Sea Killer,,HMW,362,Hyperspace,Common,False,N/A,N/A
+1,Opee Sea Killer,,HMW,600,Hyperspace Foil,Common,True,N/A,N/A
+13,Pelta Relief Frigate,,HMW,91,Standard,Common,False,N/A,N/A
+3,Pelta Relief Frigate,,HMW,601,Hyperspace Foil,Common,True,N/A,N/A
+7,Numa,Still Fighting,HMW,88,Standard,Uncommon,False,N/A,N/A
+1,Numa,Still Fighting,HMW,360,Hyperspace,Uncommon,False,$0.26,$0.26
+11,Dragon's Might,,HMW,102,Standard,Common,False,$0.57,$6.27
+2,Dragon's Might,,HMW,374,Hyperspace,Common,False,$0.31,$0.62
+11,Feisty Blurrg,,HMW,179,Standard,Common,False,N/A,N/A
+1,Feisty Blurrg,,HMW,689,Hyperspace Foil,Common,True,N/A,N/A
+11,Poacher's Starfighter,,HMW,153,Standard,Common,False,N/A,N/A
+3,Poacher's Starfighter,,HMW,425,Hyperspace,Common,False,N/A,N/A
+4,Poacher's Starfighter,,HMW,663,Hyperspace Foil,Common,True,N/A,N/A
+3,Teebo,Striped Hunter,HMW,162,Standard,Uncommon,False,$0.36,$1.08
+3,Volley Fire,,HMW,192,Standard,Uncommon,False,$0.37,$1.11
+1,Volley Fire,,HMW,464,Hyperspace,Uncommon,False,$0.21,$0.21
+5,Fennec Shand,A Ship For A Life,HMW,175,Standard,Uncommon,False,$0.40,$2.00
+8,Village Troublemaker,,HMW,176,Standard,Common,False,$0.20,$1.60
+1,Village Troublemaker,,HMW,686,Hyperspace Foil,Common,True,$0.20,$0.20
+8,Desperate Nantex,,HMW,178,Standard,Common,False,N/A,N/A
+1,Desperate Nantex,,HMW,688,Hyperspace Foil,Common,True,N/A,N/A
+5,Stormchaser,,HMW,180,Standard,Uncommon,False,N/A,N/A
+1,Stormchaser,,HMW,452,Hyperspace,Uncommon,False,$0.23,$0.23
+5,A'Koba,Restless Raider,HMW,52,Standard,Uncommon,False,$0.37,$1.85
+7,Adamant Ewoks,,HMW,177,Standard,Common,False,$0.19,$1.33
+2,Adamant Ewoks,,HMW,449,Hyperspace,Common,False,$0.51,$1.02
+8,Nightfall,,HMW,193,Standard,Common,False,$0.23,$1.84
+1,Nightfall,,HMW,465,Hyperspace,Common,False,$0.34,$0.34
+1,Nightfall,,HMW,703,Hyperspace Foil,Common,True,$0.21,$0.21
+11,Enraged,,HMW,190,Standard,Common,False,$0.27,$2.97
+1,Enraged,,HMW,462,Hyperspace,Common,False,$0.51,$0.51
+10,Champions of Endor,,HMW,163,Standard,Common,False,$0.20,$2.00
+3,Champions of Endor,,HMW,435,Hyperspace,Common,False,$0.20,$0.60
+1,Champions of Endor,,HMW,673,Hyperspace Foil,Common,True,$0.18,$0.18
+1,Filthy Dianoga,,HMW,427,Hyperspace,Common,False,$0.26,$0.26
+13,Dune Sea Nomads,,HMW,167,Standard,Common,False,$0.28,$3.64
+3,Dune Sea Nomads,,HMW,439,Hyperspace,Common,False,$0.29,$0.87
+1,Dune Sea Nomads,,HMW,677,Hyperspace Foil,Common,True,N/A,N/A
+7,Tusken Bantha Rider,,HMW,181,Standard,Common,False,$0.23,$1.61
+5,Hunter's Instinct,,HMW,191,Standard,Common,False,N/A,N/A
+1,Hunter's Instinct,,HMW,701,Hyperspace Foil,Common,True,N/A,N/A
+6,Heavy Ion Cannon,,HMW,172,Standard,Uncommon,False,N/A,N/A
+6,Gungi,Fighting for Kashyyyk,HMW,166,Standard,Uncommon,False,$0.41,$2.46
+2,Gungi,Fighting for Kashyyyk,HMW,438,Hyperspace,Uncommon,False,$0.61,$1.22
+9,Commandeered Tour Shuttle,,HMW,165,Standard,Common,False,$0.22,$1.98
+8,Run Amok,,HMW,194,Standard,Common,False,$0.24,$1.92
+1,Run Amok,,HMW,704,Hyperspace Foil,Common,True,N/A,N/A
+6,Arena Acklay,Screaming Predator,HMW,156,Standard,Uncommon,False,$0.38,$2.28
+9,Catch the Scent,,HMW,195,Standard,Common,False,N/A,N/A
+3,Catch the Scent,,HMW,467,Hyperspace,Common,False,N/A,N/A
+1,Catch the Scent,,HMW,705,Hyperspace Foil,Common,True,N/A,N/A
+7,Han Solo,My Team's Ready,HMW,170,Standard,Uncommon,False,$0.37,$2.59
+10,Nightsister Prodigy,,HMW,183,Standard,Common,False,N/A,N/A
+3,Nightsister Prodigy,,HMW,693,Hyperspace Foil,Common,True,N/A,N/A
+4,Noxious Refinery,,HMW,160,Standard,Uncommon,False,N/A,N/A
+7,Filthy Dianoga,,HMW,155,Standard,Common,False,N/A,N/A
+1,Aggrocrab,,HMW,694,Hyperspace Foil,Common,True,N/A,N/A
+5,Neebray Manta,,HMW,189,Standard,Uncommon,False,N/A,N/A
+12,Dathomiri Rancor,,HMW,187,Standard,Common,False,$0.22,$2.64
+1,Dathomiri Rancor,,HMW,459,Hyperspace,Common,False,$0.17,$0.17
+1,Dathomiri Rancor,,HMW,697,Hyperspace Foil,Common,True,$1.21,$1.21
+6,Battle-Scarred Destroyer,,HMW,158,Standard,Uncommon,False,$0.39,$2.34
+1,Battle-Scarred Destroyer,,HMW,668,Hyperspace Foil,Uncommon,True,N/A,N/A
+11,Mining Guild Trespasser,,HMW,186,Standard,Common,False,$0.22,$2.42
+1,Mining Guild Trespasser,,HMW,458,Hyperspace,Common,False,$0.24,$0.24
+1,Mining Guild Trespasser,,HMW,696,Hyperspace Foil,Common,True,$0.20,$0.20
+9,Corpo Thugs,,HMW,157,Standard,Common,False,N/A,N/A
+1,Corpo Thugs,,HMW,429,Hyperspace,Common,False,$0.25,$0.25
+7,Aggrocrab,,HMW,184,Standard,Common,False,N/A,N/A
+1,Ahsoka Tano,I Have an Idea,TS26,8,Standard,Rare,False,$0.61,$0.61
+1,Aggrocrab,,HMW,456,Hyperspace,Common,False,N/A,N/A

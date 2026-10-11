@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SWU Collection</title>
+<style>
+  :root { color-scheme: light dark; --bg:#fff; --fg:#111; --muted:#666; --line:#ddd; --accent:#2563eb; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#111; --fg:#eee; --muted:#999; --line:#333; --accent:#60a5fa; } }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.4 system-ui, -apple-system, sans-serif; }
+  main { max-width:640px; margin:0 auto; padding:12vh 16px 48px; }
+  input { width:100%; padding:14px 16px; font-size:18px; border:1px solid var(--line); border-radius:10px;
+          background:var(--bg); color:var(--fg); outline:none; }
+  input:focus { border-color:var(--accent); }
+  #status { color:var(--muted); font-size:14px; margin:12px 4px; }
+  .card { padding:14px 4px; border-bottom:1px solid var(--line); }
+  .name { font-weight:600; }
+  .sub { color:var(--muted); font-weight:400; }
+  .none { color:var(--muted); font-size:14px; margin-top:4px; }
+  ul { list-style:none; margin:6px 0 0; padding:0; }
+  li { display:flex; justify-content:space-between; gap:12px; font-size:15px; padding:2px 0; }
+  .meta { color:var(--muted); font-size:13px; margin-left:6px; }
+  .qty { font-variant-numeric:tabular-nums; font-weight:600; }
+</style>
+</head>
+<body>
+<main>
+  <input id="q" type="search" placeholder="Search for a card…" autocomplete="off" autofocus>
+  <div id="status">Loading collection…</div>
+  <div id="results"></div>
+</main>
+<script>
+const VARIANT_ORDER = ['Standard','Standard Foil','Hyperspace','Hyperspace Foil','Standard Prestige','Foil Prestige','Serialized Prestige','Showcase','Weekly Play','Weekly Play Foil'];
+const norm = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9]+/g,' ').trim();
+
+// Minimal CSV parser that handles quoted fields ("You're All Clear, Kid").
+function parseCSV(text) {
+  const rows = []; let row = [], field = '', inQ = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (inQ) {
+      if (c === '"') { if (text[i+1] === '"') { field += '"'; i++; } else inQ = false; }
+      else field += c;
+    } else if (c === '"') inQ = true;
+    else if (c === ',') { row.push(field); field = ''; }
+    else if (c === '\n' || c === '\r') {
+      if (c === '\r' && text[i+1] === '\n') i++;
+      row.push(field); field = '';
+      if (row.some(f => f.trim())) rows.push(row);
+      row = [];
+    } else field += c;
+  }
+  row.push(field); if (row.some(f => f.trim())) rows.push(row);
+  return rows;
+}
+
+let cards = []; // [{name, subtitle, key, variants:[{variant,set,number,count}]}]
+
+function load(text) {
+  const [header, ...rows] = parseCSV(text);
+  const col = Object.fromEntries(header.map((h, i) => [h.replace(/^#/, '').trim().toLowerCase(), i]));
+  const byCard = new Map();
+  for (const r of rows) {
+    const count = parseInt(r[col.count], 10) || 0;
+    if (count <= 0) continue;
+    const name = r[col.name].trim(), subtitle = (r[col.subtitle] || '').trim();
+    const id = name + '|' + subtitle;
+    if (!byCard.has(id)) byCard.set(id, { name, subtitle, key: norm(name + ' ' + subtitle), variants: new Map() });
+    const v = { variant: r[col.variant].trim(), set: r[col.set].trim(), number: r[col.number].trim() };
+    const vid = v.variant + '|' + v.set + '|' + v.number;
+    const card = byCard.get(id);
+    if (card.variants.has(vid)) card.variants.get(vid).count += count;
+    else card.variants.set(vid, { ...v, count });
+  }
+  const rank = v => { const i = VARIANT_ORDER.indexOf(v); return i < 0 ? 99 : i; };
+  cards = [...byCard.values()].map(c => ({
+    ...c,
+    variants: [...c.variants.values()].sort((a, b) => rank(a.variant) - rank(b.variant) || a.set.localeCompare(b.set) || a.number - b.number),
+  })).sort((a, b) => a.name.localeCompare(b.name) || a.subtitle.localeCompare(b.subtitle));
+}
+
+const $ = id => document.getElementById(id);
+const esc = s => s.replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+function search() {
+  const raw = $('q').value, q = norm(raw);
+  history.replaceState(null, '', q ? '?q=' + encodeURIComponent(raw) : location.pathname);
+  if (q.length < 2) { $('results').innerHTML = ''; $('status').textContent = ''; return; }
+  const words = q.split(' ');
+  const hits = cards.filter(c => words.every(w => c.key.includes(w)));
+  if (!hits.length) {
+    $('status').textContent = '';
+    $('results').innerHTML = `<div class="card"><div class="name">${esc(raw)}</div><div class="none">Not in collection</div></div>`;
+    return;
+  }
+  $('status').textContent = `${hits.length} card${hits.length === 1 ? '' : 's'} found`;
+  $('results').innerHTML = hits.slice(0, 100).map(c => `
+    <div class="card">
+      <div class="name">${esc(c.name)}${c.subtitle ? ` <span class="sub">— ${esc(c.subtitle)}</span>` : ''}</div>
+      <ul>${c.variants.map(v => `
+        <li><span>${esc(v.variant)}<span class="meta">${esc(v.set)} ${esc(v.number)}</span></span><span class="qty">×${v.count}</span></li>`).join('')}
+      </ul>
+    </div>`).join('');
+}
+
+fetch('inventory.txt', { cache: 'no-cache' })
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
+  .then(text => {
+    load(text);
+    $('status').textContent = '';
+    const q = new URLSearchParams(location.search).get('q');
+    if (q) $('q').value = q;
+    $('q').addEventListener('input', search);
+    search();
+  })
+  .catch(() => { $('status').textContent = 'Could not load inventory.'; });
+</script>
+</body>
+</html>
