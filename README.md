@@ -2,6 +2,8 @@
 
 A one-page search for my Star Wars: Unlimited collection. Type a card name to see each variant I own and how many of each.
 
+My coworkers often want to trade cards and I'm tired of manually checking every time. 
+
 - `index.html`: the whole site (no build step).
 - `inventory.txt`: my collection export (CSV: `count,name,subtitle,set,number,variant,...`).
 
