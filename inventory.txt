@@ -1403,3 +1403,89 @@
 7,Aggrocrab,,HMW,184,Standard,Common,False,N/A,N/A
 1,Ahsoka Tano,I Have an Idea,TS26,8,Standard,Rare,False,$0.61,$0.61
 1,Aggrocrab,,HMW,456,Hyperspace,Common,False,N/A,N/A
+1,Third Sister,Cycle of Vengeance,HMW,834,Standard Prestige,Legendary,False,N/A,N/A
+1,Krrsantan,Santo,HMW,802,Standard Prestige,Rare,False,$4.74,$4.74
+1,Queen Amidala,Retaking Theed,HMW,532,Hyperspace,Rare,False,$2.09,$2.09
+1,Cham Syndulla,Hammer of Ryloth,HMW,795,Showcase,Rare,True,N/A,N/A
+1,Wicket,Few Greater Battles to Fight,HMW,796,Showcase,Common,True,N/A,N/A
+1,Emperor Palpatine,Consolidating Power,HMW,110,Standard,Legendary,False,$14.68,$14.68
+3,General Grievous,Scourge of Dathomir,HMW,159,Standard,Legendary,False,$14.52,$43.56
+1,General Grievous,Scourge of Dathomir,HMW,431,Hyperspace,Legendary,False,$13.63,$13.63
+1,Ritual Dragon,,HMW,234,Standard,Legendary,False,$6.60,$6.60
+2,Mae,Kill the Dream,HMW,55,Standard,Legendary,False,$16.40,$32.80
+1,Origin Tree Shyyyo,,HMW,145,Standard,Legendary,False,$4.04,$4.04
+4,Dooku,Corruption Must Be Eradicated,HMW,42,Standard,Legendary,False,$7.46,$29.84
+1,Sando Aqua Monster,,HMW,94,Standard,Legendary,False,$16.45,$16.45
+1,Giant Gorax,,HMW,188,Standard,Legendary,False,$4.04,$4.04
+1,C-3PO,Captivating Storyteller,HMW,765,Hyperspace Foil,Special,True,$1.07,$1.07
+1,Vice Admiral Rampart,A New Era of Safety,HMW,332,Hyperspace,Special,False,$0.27,$0.27
+1,The Great Progenitor,First of the Drengir,HMW,825,Standard Prestige,Legendary,False,$4.85,$4.85
+1,Crosshair,I've Changed,HMW,169,Standard,Legendary,False,$3.82,$3.82
+1,Ima-Gun Di,Holding Out For Resupply,HMW,44,Standard,Legendary,False,$5.40,$5.40
+1,Nightbrother,Maul's Gauntlet,HMW,204,Standard,Legendary,False,$28.28,$28.28
+1,Qui-Gon Jinn,We'll Handle This,HMW,78,Standard,Legendary,False,$10.19,$10.19
+1,L3-37,We're Programmed to Learn,HMW,215,Standard,Legendary,False,$2.57,$2.57
+1,A'Koba,Restless Raider,HMW,803,Standard Prestige,Uncommon,False,$1.25,$1.25
+1,Teebo,Striped Hunter,HMW,817,Standard Prestige,Uncommon,False,$3.48,$3.48
+1,Hunter,Everyone Get to Cover!,HMW,35,Standard,Legendary,False,$15.39,$15.39
+1,Kelnacca,Solitary Master,HMW,36,Standard,Rare,False,$2.97,$2.97
+1,Bacta Tank,,HMW,37,Standard,Rare,False,$1.74,$1.74
+1,The Tarkin Doctrine,Protect and Punish,HMW,716,Hyperspace Foil,Special,True,$2.89,$2.89
+1,Saw Gerrera,Shadowlands Insurgent,HMW,119,Standard,Rare,False,$0.28,$0.28
+1,Vice Admiral Rampart,A New Era of Safety,HMW,570,Hyperspace Foil,Special,True,$0.29,$0.29
+1,Seismic Detonation,,HMW,54,Standard,Rare,False,N/A,N/A
+1,The Chieftain,Here Since the Oceans Dried,HMW,212,Standard,Rare,False,$0.61,$0.61
+1,Defoliator Tank,,HMW,758,Hyperspace Foil,Rare,True,N/A,N/A
+2,Ty Yorrick,Monster Hunter,HMW,185,Standard,Rare,False,$0.79,$1.58
+1,The First Legion,Vader's Fist,HMW,380,Hyperspace,Rare,False,$2.25,$2.25
+2,The First Legion,Vader's Fist,HMW,108,Standard,Rare,False,$1.43,$2.86
+2,Commander Gree,Of the 41st Elite Corps,HMW,138,Standard,Rare,False,$1.73,$3.46
+1,Chief Chirpa,Defiant Elder,HMW,436,Hyperspace,Rare,False,$1.04,$1.04
+1,Keeper of Skara Nal,Awoken,HMW,41,Standard,Rare,False,$1.71,$1.71
+3,Chewbacca,Resourceful Wookiee,HMW,117,Standard,Rare,False,$1.33,$3.99
+3,Babwa Venomor,Burning Kashyyyk,HMW,152,Standard,Rare,False,N/A,N/A
+3,Jaxxon,I Can Hear You Breathing!,HMW,219,Standard,Rare,False,$0.69,$2.07
+1,Rish Loo,Traitorous Minister,HMW,710,Hyperspace Foil,Rare,True,N/A,N/A
+2,Rish Loo,Traitorous Minister,HMW,200,Standard,Rare,False,$0.48,$0.96
+2,Carrion Spike,Harbinger of Tyranny,HMW,66,Standard,Rare,False,N/A,N/A
+2,Emerie Karr,For Your Own Good,HMW,130,Standard,Rare,False,$1.25,$2.50
+3,Ezra Bridger,What Are You Afraid Of?,HMW,168,Standard,Rare,False,$1.14,$3.42
+1,Garnac,Let the Hunt Begin!,HMW,376,Hyperspace,Rare,False,$3.71,$3.71
+1,Garnac,Let the Hunt Begin!,HMW,104,Standard,Rare,False,N/A,N/A
+2,Rebel Operation,,HMW,173,Standard,Rare,False,N/A,N/A
+1,Qimir,Everyone Has a Weakness,HMW,196,Standard,Rare,False,$0.86,$0.86
+3,Mysterious Disappearance,,HMW,58,Standard,Rare,False,$0.41,$1.23
+1,Mace Windu,Austere Centrist,HMW,400,Hyperspace,Rare,False,$1.85,$1.85
+3,Mace Windu,Austere Centrist,HMW,128,Standard,Rare,False,$2.16,$6.48
+2,Phee Genoa,Liberator of Ancient Wonders,HMW,214,Standard,Rare,False,$1.13,$2.26
+1,Breach,,HMW,624,Hyperspace Foil,Rare,True,N/A,N/A
+1,Breach,,HMW,114,Standard,Rare,False,$1.12,$1.12
+3,Nala Se,Silent Survivor,HMW,82,Standard,Rare,False,$0.63,$1.89
+1,Beast Lair,,HMW,419,Hyperspace,Rare,False,$2.15,$2.15
+2,Boss Nass,Otoh Gunga Boss,HMW,77,Standard,Rare,False,$1.51,$3.02
+4,King Grakchawwaa,King of Kashyyyk,HMW,123,Standard,Rare,False,$1.82,$7.28
+1,Yord Fandar,Devoutly Disciplined,HMW,346,Hyperspace,Rare,False,$2.46,$2.46
+3,Yord Fandar,Devoutly Disciplined,HMW,74,Standard,Rare,False,$2.46,$7.38
+1,Zam Wesell,Not What She Seems,HMW,406,Hyperspace,Rare,False,$0.86,$0.86
+1,Zam Wesell,Not What She Seems,HMW,134,Standard,Rare,False,N/A,N/A
+3,Krrsantan,Santo,HMW,46,Standard,Rare,False,$1.99,$5.97
+2,Raze to Ruin,,HMW,161,Standard,Rare,False,$1.12,$2.24
+1,Cid Scaleback,Can't Be Trusted,HMW,469,Hyperspace,Rare,False,$4.17,$4.17
+3,Cid Scaleback,Can't Be Trusted,HMW,197,Standard,Rare,False,$2.81,$8.43
+1,Twi'lek Kalikori,,HMW,775,Hyperspace Foil,Rare,True,N/A,N/A
+2,Twi'lek Kalikori,,HMW,265,Standard,Rare,False,$0.74,$1.48
+2,Queen Amidala,Retaking Theed,HMW,260,Standard,Rare,False,$0.65,$1.30
+1,Clone of the Zillo Beast,Emperor's Experiment,HMW,65,Standard,Rare,False,$1.36,$1.36
+1,Dooku's Solar Sailer,Droid Army Portent,HMW,426,Hyperspace,Rare,False,$1.67,$1.67
+1,Dooku's Solar Sailer,Droid Army Portent,HMW,154,Standard,Rare,False,N/A,N/A
+1,Maul,Only Revenge Remains,HMW,174,Standard,Rare,False,$1.95,$1.95
+1,Mother Talzin,Pledged to the Sisterhood,HMW,549,Hyperspace Foil,Rare,True,$2.23,$2.23
+1,Mother Talzin,Pledged to the Sisterhood,HMW,311,Hyperspace,Rare,False,$2.58,$2.58
+2,Mother Talzin,Pledged to the Sisterhood,HMW,39,Standard,Rare,False,$1.67,$3.34
+1,Low Altitude Combat,,HMW,50,Standard,Rare,False,$1.79,$1.79
+3,Nuvo Vindi,Blue Shadow Perfected,HMW,62,Standard,Rare,False,$2.34,$7.02
+1,Greater Sarlacc,,HMW,49,Standard,Rare,False,$2.38,$2.38
+3,Arena Nexu,Starved for Prey,HMW,182,Standard,Rare,False,$2.31,$6.93
+2,Boba Fett,Family Found,HMW,225,Standard,Rare,False,$1.84,$3.68
+2,Fett's Firespray,Settling the Score,HMW,53,Standard,Rare,False,$1.55,$3.10
+1,Sol,Compassionate Guardian,HMW,839,Standard Prestige,Uncommon,False,$1.64,$1.64
