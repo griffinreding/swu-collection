@@ -1060,7 +1060,7 @@
 1,Covert Veteran,,ASH,751,Hyperspace Foil,Common,True,$0.16,$0.16
 1,The Darksaber,,SHD,395,Hyperspace,Legendary,False,$9.52,$9.52
 1,Blade Three,Bane of the Devastator,ASH,872,Foil Prestige,Uncommon,True,$4.51,$4.51
-1,Clone of the Zillo Beast,Emperor's Experiment,HMW,824,Standard Prestige,Rare,False,$5.60,$5.60
+2,Clone of the Zillo Beast,Emperor's Experiment,HMW,824,Standard Prestige,Rare,False,$5.60,$11.20
 4,Wrecker,Wrecking the Empire,HMW,263,Standard,Uncommon,False,$0.36,$1.44
 7,Mylaya Rider,,HMW,262,Standard,Common,False,N/A,N/A
 1,Mylaya Rider,,HMW,772,Hyperspace Foil,Common,True,N/A,N/A
@@ -1422,7 +1422,7 @@
 1,The Great Progenitor,First of the Drengir,HMW,825,Standard Prestige,Legendary,False,$4.85,$4.85
 1,Crosshair,I've Changed,HMW,169,Standard,Legendary,False,$3.82,$3.82
 1,Ima-Gun Di,Holding Out For Resupply,HMW,44,Standard,Legendary,False,$5.40,$5.40
-1,Nightbrother,Maul's Gauntlet,HMW,204,Standard,Legendary,False,$28.28,$28.28
+2,Nightbrother,Maul's Gauntlet,HMW,204,Standard,Legendary,False,$28.28,$56.56
 1,Qui-Gon Jinn,We'll Handle This,HMW,78,Standard,Legendary,False,$10.19,$10.19
 1,L3-37,We're Programmed to Learn,HMW,215,Standard,Legendary,False,$2.57,$2.57
 1,A'Koba,Restless Raider,HMW,803,Standard Prestige,Uncommon,False,$1.25,$1.25
@@ -1489,3 +1489,12 @@
 2,Boba Fett,Family Found,HMW,225,Standard,Rare,False,$1.84,$3.68
 2,Fett's Firespray,Settling the Score,HMW,53,Standard,Rare,False,$1.55,$3.10
 1,Sol,Compassionate Guardian,HMW,839,Standard Prestige,Uncommon,False,$1.64,$1.64
+1,Awakened Exogorth,,HMW,832,Standard Prestige,Uncommon,False,$1.29,$1.29
+1,Boss Nass,Otoh Gunga Boss,HMW,349,Hyperspace,Rare,False,N/A,N/A
+1,L3-37,We're Programmed to Learn,HMW,725,Hyperspace Foil,Legendary,True,N/A,N/A
+1,The Chieftain,Here Since the Oceans Dried,HMW,820,Standard Prestige,Rare,False,$5.49,$5.49
+1,Clone of the Zillo Beast,Emperor's Experiment,HMW,337,Hyperspace,Rare,False,$5.96,$5.96
+1,Yanna,Sanctuary Elder,HMWP,3,Weekly Play,Uncommon,False,N/A,N/A
+1,Invasion Lander,,HMWP,7,Weekly Play,Common,False,N/A,N/A
+1,Batcher,Loyal Hound,HMWP,24,Weekly Play Foil,Uncommon,True,N/A,N/A
+1,Chief Chirpa,Defiant Elder,HMW,164,Standard,Rare,False,$1.49,$1.49
